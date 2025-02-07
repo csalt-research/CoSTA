@@ -1,0 +1,233 @@
+startTime,endTime,speaker,contentType,transcript,disfluency1,disfluency2,translation
+57.926888,59.214448,0,music,,,,
+59.214448,60.634375,1,speech,"Hello Saurabh! कैसे हैं आप?",,,"Hello Saurabh! How are you?"
+60.634375,62.463433,3,speech,"एक दम बढ़िया, Khyati तुम बताओ",,,"Very good. Khyati, you tell."
+62.56532,67.036077,2,speech,"बस सब सही चल रहा है, आज हम किस विषय पे बातें करने वाले हैं",,,"Everything is going well. Which topic shall we discuss today?"
+67.180476,88.744104,1,speech,"हां aa तो बहुत दिन हो गए जैसे हमारे Puliyabaazi श्रोता है हमेशा कहते रहते बहुत दिन हो गए कोई technical Puliyabaazi नहीं हुई तो दिन हो गया है उसका अ काफी दिन हो गया है और आज कल technical चीज़ो के बारे में कितनी बात भी हो रही है चाहे अभी Chandrayaan की बात हो रही थी कुछ दिनों पहले, उसके पहले semiconductors की तो आजकल रोज़ ही बात हो रही है",0100000000000000000000000111101000000000000000000000000000000000000000000,,"Yes, so it has been so long that's our Puliyabaazi listeners says there has been no technical Puliyabaazi for a long time. So it took too long and nowadays, so many discussions are happening on technical things, just like Chandrayaan was a recent topic of discussion and Semiconductor is being discussed like everyday."
+88.925108,104.78446,1,speech,"और अभी हाल ही में National Research Foundation bill भी आ रहा है aa Parliament मे तो Science & Technology research पर वो काफी aa ब बड़ा step कहा जा रहा है तो aa इसी से जुड़ी हुई कोई technical Puliyabaazi करवाओ आज Khyati",00000000000001000000000011000000010000000000,,"And recently the National Research Foundation bill is also coming into the parliament, so it is being said that it is a very big step on science & technology research. So Khyati, today get some technical analysis done on this topic of Puliyabaazi."
+104.823119,121.780276,2,speech,"Hmm [LAUGH] हां तो इस इस या तो technical Puliyabaazi करने के लिए आज हमारे साथ perfect guest जुड़ने वाली है हमारे साथ आज जुड़ रही है Dr. aa Sonali Das Gupta जो applied photonics technology के छेत्र मे carrier research scientist रह चुकी है",110001110000000000000111111010000000000000000,,"Yes, so today a perfect guest, Dr. Sonali Das Gupta will be joining with us to do this technical Puliyabaazi, who has been a carrier research scientist in the field of Applied Photonics Technology."
+121.845122,138.33323,2,speech,"और अब वो एक aa founder director है STEMonsters की जो एक organisation है जिसके द्वारा वो aa हमारी युवा पीड़ी को stem education के प्रति और उत्साह बड़े ये कोशिश कर रही है, so welcome Sonali Puliyabaazi में जुड़ने के लिए शुक्रिया",0000100000000000010000000000000000000000000,,"Now she is a founder and director of STEMonsters, a organization through which she is trying to more encourage our young generation for stem education. So, welcome Sonali. Thanks for joining Puliyabaazi."
+138.826594,145.204229,4,speech,"Thank you very much Khyati, धन्यवाद आपने इतना अच्छा introduction दिया कि मुझे तो और कुछ बोलना ही नहीं पड़ेगा शायद",000001000000000000000,,"Thank you very much Khyati, for giving such a beautiful introduction, that probably I need not to add anything extra to it."
+145.986392,149.199212,2,overlap,,,,
+149.199212,174.866251,2,speech,"बता दूँ की pu aa Sonali का मैंने जब Sonali के बारे में पढ रही थी तो मैंने उनका एक vision sp aa statement उनका पढ़ा तो मुझे काफी interesting लगा और मैंने सोचा की ये share करना चहिए [BREATH] तो उनका एक vision ये है की to make India one of the top three research and innovation hubs in the world, तो ये बहुत ही सरहानीय vision है और अच्छा है मतलब हमें अच्छा लग रहा है हमें आपसे और जानने को मिलेगा science के बारे में और बातें करने को मिलेगी",000111110000000000000110100000000000000100000000000000000000000000000011100000000000000000000,,"I will tell one thing that, when I was reading about Sonali, I read a statement of vision of her, which I found very interesting and I felt that I needed to share this. So, her vision is to make India one of the top three research and innovation hubs in the world, which is very much appreciable and we are feeling so grateful that we will know more about science and we will get the chance to talk with you."
+175.81688,177.441372,2,overlap,,,,
+178.043506,199.654797,2,speech,"हां तो शुरूआत से शुरू करते हैं aa आपका research aa का जो field है aa applied photonics technology aa सच बताउ तो मुझे तो ज़्यादा कुछ पता है ही नहीं कि ये क्या होता है तो पहले तो शुरू इससे करते हैं कि ये क्या field है, applied photonics क्या चीज है, aa क्या branches है उसके अंदर, कहाँ देखते हैं हम इसे हम हमारी आम जिंदगी में",000000010010000100010000000000000000000000000000000001000000000010000,,"So yes, let's start from the beginning. Your research field is Applied Photonics Technology. Honestly telling you that, at least I have no knowledge about what it is. So, let's start from it that what field is this, what is Applied Photonics, what are the branches inside it, where we see it in our daily life."
+199.979696,221.952455,4,speech,"[BREATH] तो [NOISE] ऐसा है photonics का मतलब है light और light हर जगह पे use होता है, चाहे हम लोग चश्मा पेहने या फिर हम light जलाये शाम को। अब applied photonics वो श्रेत्र है जहां पे हम लोग light को use करके light को use करके कोई और ss problem को solve करते हैं",10100000000000000000000000000000000000000000111100100000,,"So the thing is that, Photonics means Light, and we use Light everywhere, may be we wear glasses or turn on the light in the evening. Now Applied Photonics is the field where we solve another problem by using Light."
+222.854951,239.767078,4,speech,"तो कोई भी applied चाहे हम aa phone use कर रहे हैं या फ़िर अब अभी हम लोग सब laptop पे अ एक दूसरे को देखके video record रहे हैं हर एक चीज़ में light use होती है [BREATH] तो कोई भी technology जहां पे light का use होता है [BREATH] उसको हम applied photonics कहते हैं",000000100000001000000100000000000000001000000000001000000,,"So whatever Applied thing, suppose we are using phone or we are recording video in laptop, watching each other, Light is used everywhere. So, when Light is used in a technology, we call that as Applied Photonics."
+239.767078,262.480525,4,speech,"तो वैसे अगर हम applied photonics बोले तो शायद ही कोई ऐसी चीज़ होगी domain होगी जहां पे light का use आजकल नहीं हो रहा है तो ये बहुत बड़ा एक field है [BREATH] और उस में बहुत छोटे छोटे छोटे छोटे different divisions है जिनको different scientists अलग-अलग scientists अलग-अलग तरिके से light को use करके कोई ना कोई problem solve कर रहे है",00000000000011000000000000000000010000110000001100000000000000000,,"So, if we say Applied Photonics in that way, then hardly there will be any domain where Light is not being used nowadays. So, it is a very large field and so many small different divisions are there, where different scientists are solving any problem using different techniques."
+263.046088,263.369755,2,hmm,,,,
+263.370987,277.467964,3,speech,"Hmm [BREATH] तो ये aa Sonali जैसे हम लोगो ने एक बार semiconductor discuss करते हुए किया था जैसे aa वहां पे वो photo lithography करते हैं तो जैसी रोशनी से हम बोलते थे की भई रोशनी से पत्थर तराश्ते हैं aa [BABBLE]",1101100000000000000100000000011000000000011,,"So Sonali, as we had discussed Semiconductor once, where Photolithography is used. So we used to say that a stone is carved with the help of Light."
+277.498051,278.37648,4,overlap,,,,
+278.5124,279.158155,3,speech,"तो वो भी एक",,,"So that is also a"
+279.158155,279.790401,4,overlap,,,,
+279.790401,286.547074,3,speech,"Aa applied photonics आप बोलेंगे कि जब हम रोशनी use करके हम chip बना रहे है उस तरिके की चीज़ है applied photonics",11100000000100000000000,,"You will say that when we are using Light to build a chip, so is it Applied Photonics?"
+287.016372,293.502307,4,speech,"So applied photonics जैसे जैसे ही आपने photo lithography कहां आपने photon word का use कर लिया इसका मतलब",0000100000000000000,,"So Applied Photonics is like, when you talked about Photolithography, you have already used the word 'Photon'. It means"
+293.51434,294.464969,4,overlap,,,,
+294.464969,298.640515,4,speech,"तरिके से photonic application ही हुआ अब whether हम",,,"In that way, Photonic is also an application. Now, whether we"
+298.640515,300.168741,4,overlap,,,,
+300.168741,320.902073,4,speech,"पूरा पूरी तरीके से applied photonics बोलेंगे की नहीं वो depend करता है की जहा पे light use हो रहा है वो कितना ज्यादा use हो रहा है उस problem को solve करने के लिए [BREATH] वो actual is it the centre piece मतलब वो actually मे centre piece है की नहीं light या फिर वो किसी और problem को solve करने मे one of the many है",10000000000000000000000000000000000111111111000000000000000000000000,,"Whether we will call it exactly as 'Applied Photonics' or not, that depends upon the amount of light which is being used to solve the problem. Is the piece not light or is it one of many in solving some other problem?"
+321.548348,322.16168,4,speech,"तो अगर",,,"So if"
+322.16168,323.635549,3,overlap,,,,
+323.635549,334.955249,4,speech,"in a semiconductor industry में अगर आप photolithography बोलेंगे [BREATH] तो photolithography में वो photonic application हो गया, लेकिन semiconductor chip design में, वो एक छोटासा उसका part हो गया ।",0000000001000000000000000010000,,"In a semiconductor industry, if you consider photolithography, it will be a photonic application in photolithography, but in semiconductor chip design, it will ba a small part of it."
+335.503781,337.033021,3,speech,"ठीक ठीक ठीक ।",0110,,Right
+337.033021,337.23561,4,hmm,,,,
+337.246418,348.585431,3,speech,"तो जैसे ही अकसर हम रोशनी को communication के लिए तो use करते ही हैं क्युकि आप aa रोशनी से signals भेज सकते हैं, या फिर laser वगैरा होती हैं जिससे कि आप चीजो को जला आला सकते हैं या",0000000000100000010000000000000000001000,,"So as often we use light to communicate because you can send signals from light or there are lasers etc. through which you can burn things. Or"
+348.585431,349.599384,4,overlap,,,,
+349.599384,360.054731,3,speech,"आतिशबाजी  कर सकते हैं हैं ना ओ और या फिर aa aa रोशनी aa रोशनी से चीजों को गर्म  कर सकते हैं, तो ये इस तरीके की चीजे मोटा-मोटी [BABBLE] जिन के बारे में आप ।",00000101100111100000000000000001000000,,"You can set off fireworks, right? Or you can heat things with light, so these are the kinds of things about which you"
+360.054731,360.686373,4,overlap,,,,
+360.686373,365.070639,4,speech,"आतिशबाजी को सायत photonic applied photonics नही बोलूंगी [BREATH] [LAUGH] लेकिन ।",000100001100,,"I would not call fireworks as applied photonics but"
+365.070639,367.61782,3,overlap,,,,
+367.61782,383.342395,4,speech,"उसके अलाबा  जो भी आपने बोला हैं absolutely हर एक चीज aa [BREATH] applied photonics में definitely आता हैं, and some one of the एक बौहत ही important feel शायद  [BREATH] जो हमको बोलना चाहिए is medical diagnostics, [BREATH] आजके जमाने",0000000000001100000001111000000010000000100,,"Apart from what you have said, absolutely everything has definitely come in applied photonics and a very important feel maybe we should say is medical diagnostics in today's times"
+383.342395,384.107015,3,overlap,,,,
+384.107015,395.360227,4,speech,"medical diagnostics field अगर आप सोचे [BREATH] चाहे ओ microscopy हो या फिर ultrasonography हो, हर एक चीज में photonic light का use हो रहा हैं, रोशनी का use हो रहा हैं।",00000010000000000000000000000000,,"In the field of medical diagnostics, if you think whether it is microscopy or ultrasonography, photonic light is being used in everything, light is being used."
+395.742537,396.153358,3,hmm,,,,
+396.153358,396.688335,4,overlap,,,,
+396.688335,401.513938,3,speech,"वैसे हमारे start up वगैरह में LiDAR बहुत use करते हैं जो laser आजकल sensor हैं।",,,"By the way, LiDAR is widely used in our startup, etc., as laser sensors nowadays"
+401.513938,402.346125,4,overlap,,,,
+402.346125,404.626533,3,speech,"कल तो वो तो एकदम आपका आपके",0100001,,"Tomorrow it is yours"
+404.626533,407.278325,4,overlap,,,,
+407.278325,408.275655,3,speech,"और हाँ तो",,,"And yes so"
+408.375388,409.576423,4,overlap,,,,
+409.576423,421.889215,3,speech,"aa तो LiDAR एक uhh le radar type की चीज हैं पर उसमे laser use हो रही हैं electromagnetic wave की जगह, तो आप आप laser फेंकिए laser टकरा के वापस आएगी आप उससे पाता लागा लेंगे की वो point  कितनी दूर हैं।",10001100000000000000000010000000000000000000,,"So LiDAR is a radar type thing but it uses laser instead of electromagnetic wave so you throw the laser and laser reflects back and you will find out how far away that point is."
+422.338014,423.800765,4,speech,"जी so aa",001,,"Yes so"
+423.800765,424.232941,3,speech,"हां [BREATH]",01,,Yes
+424.249564,430.26221,4,speech,"Le radar is also le radar भी electromagnetic wave हैं light भी electromagnetic wave हैं। बस ये",10001110000000000,,"Radar is also an electromagnetic wave, light is also an electromagnetic wave, just this"
+430.26221,432.660383,3,overlap,,,,
+432.660383,440.388951,4,speech,"हां ab ये wavelength का difference हो जा even LiDAR में [BREATH] usually हम लोग visible नही use करते हैं हम लोग infrared light",000000000001000000000000,,"Yes, now this difference of wavelength should be even in LiDAR, usually we do not use it as visible, we use infrared light."
+440.397057,441.536624,3,overlap,,,,
+441.536624,442.855791,4,speech,"depend करता हैं, so",,,"It depends, so"
+442.855791,443.847106,3,overlap,,,,
+444.079816,448.829704,4,speech,"पर ये भी आपका definitely applied photonics हो गया so कही भी मैंने वही बोला",,,"But this also became your definitely applied photonics, so I said the same thing somewhere."
+448.829704,449.748351,3,overlap,,,,
+449.864332,457.892842,4,speech,"आप अपनी चारो ओर अगर देखेंगे सायद ही कोई ऐसी technology हैं आजकाल [BREATH] जिसमे light use नही हो राहा हैं ।",0000000000000100000000,,"If you look around, there is hardly any technology these days that does not use light."
+458.325019,459.089639,3,hmm,,,,
+459.089639,459.912919,2,overlap,,,,
+459.912919,478.055538,2,speech,"Sonali मूझे एक follow up question हैं इसमे [BREATH] so एक तो हम aa बहोत basic aa ja school का physics से मुझे याद आ रहा कि [BREATH] light का ये एक ये dual property एक तरीके से बोलते थे ना कि light wave की तरह भी act करता हैं और light का एक property हैं की कभी कभी वो photons मतलब",00000000100001001100000000010011100000000000000000000000000101,,"Sonali, I have a follow up question in that. So one of these is quite basic. I recall from school physics that the dual property of light was said in a way that it also behaves as a light wave and light has a property that sometimes photons"
+478.22176,478.961352,4,overlap,,,,
+478.961352,481.172196,2,speech,"particle की तरह भी act करता हैं, right ? [BREATH]",0000000001,,"It also acts like a particle, right?"
+481.222062,481.637617,4,overlap,,,,
+481.695794,489.212381,2,speech,"aa क्या कोई इसमे ये हैं कि एक इसमे एक branch को हम photonics कहेंगे या कोई दूसरी franch को optics ऐसा कुछ uhh",100000001100000000000001,,"Is there any branch in it that we call photonics or any other branch like optics?"
+489.212381,490.887856,4,overlap,,,,
+491.320032,510.900952,4,speech,"Very interesting it umm बहोत ही अच्छा [LAUGH] question हैं first of all [BREATH] so usually हम क्या बोलते हैं, photonics जब हम बोलते हैं, हम photon के properties की बात जादा करते हैं और ओ तब होता हैं जब जो wavelength हैं light की [BREATH] वो जिस भी चीज के साथ interact कर रहा हैं [BREATH]",000100010000010000000000000000000000000000000100000000001,,"Very interesting it is a very good question first of all, so usually what we talk about is photonics when we talk about it we talk more about the properties of photons and that happens when whatever wavelength of light interacts with"
+510.942508,527.525398,4,speech,"वो wavelength का size और वो object का size आगर mm जा aa comparable हैं, आसपास में हैं, जैसे micron की बात कर रहे हैं हमलोग अगर [BREATH] तो micron size कुछ हैं तो फिर वो light उस time पे photon की तरह behave करता हैं । हमारी",000000000011100000000000000100000000000000000000,,"The wavelength and object size are comparable; when discussing microns, if the micron size is small, light behaves like a photon. Our"
+527.525398,527.930369,2,overlap,,,,
+527.930369,530.631472,4,speech,"के लिए हम उसको photon के हिसाब से बोलते है its a wave।",,,"For this we call it in terms of photon, it's a wave."
+531.030404,531.637698,2,overlap,,,,
+531.637698,543.413923,4,speech,"अगर हम aa जैसे चशमे की बात करे अगर [BREATH] तो फिर चशमा बहोत बड़ा हैं wavelength की हिसाब से तो उस time पे हम उस को usually uhh र optics बोलते हैं ।",0010000011000000000000000000110000,,"If we talk about glasses like these, then glasses are very big in terms of wavelength, so at that time we usually call them optics."
+543.829478,544.38632,2,hmm,,,,
+544.38632,544.64467,4,overlap,,,,
+544.64467,554.309758,4,speech,"दो अंतर है between photonic technology and optical technology [BREATH] but अगर technically देखा जाए तो अंतर हम लोगो ने बनाया हैं।",0000000001000000000000,,"There are two differences between photonic technology and optical technology, but if seen technically then we have made the difference."
+554.584024,555.124244,2,overlap,,,,
+555.124244,563.576619,4,speech,"it is not related कि light इस time ऐसे behave करे उस time वैसे behave करे वो नही है वो हमारे समझने के लिए हम लोग बोलते हैं ।",,,"It is not related for light to behave in this manner at this time; it should behave differently at that time. However, this is not the case; we express it this way for our comprehension."
+563.742841,567.815273,2,speech,"Wonderful हा ये explanation मैंने इतना clear नही था मेरे दिमाग मैं ।",,,"Wonderful yes, this explanation was not so clear in my mind."
+568.24745,569.712948,1,overlap,,,,
+569.712948,587.318563,1,speech,"एक optical aa applied photonics ही उसे कहेंगे जैसे fiber fiber network को आजकाल सभी लोग use कर रहे होंगे जो broadbrand use कर रहे। तो वो हम लोग ने physics मैं भी पड़ा था कई बार की की उसका प्रयोग होगा उस चीज के लिए और वो हो गया अब अब",0010000000100000000000000000000000000010000000000001,,"An optical applied photonics would be called like fiber network, nowadays all the people would be using it, those would be using broadband, so we had also studied it in physics many times that it would be used for that thing and it happened."
+587.318563,588.755976,4,overlap,,,,
+588.799207,602.632962,1,speech,"ज्यादातर fiber optics aa ये होता है, लेकिन ऐसी कुछ चीजे है जो हमने physics की किताबो मैं पड़ा था लेकिन आज तक नही हुइ हैं जैसे photonic computing और कई लोग बोल रहे थे कि computing में भी हम लोग light का सहारा ले सकते हैं but",000100000000000000000000000000000000000000000000,,"Mostly this is fiber optics, but there are some concepts mentioned in our physics books that have not been implemented yet, such as photonic computing. Some suggest that light could also be utilized in computing, but"
+602.632962,605.378098,4,overlap,,,,
+605.378098,609.536928,1,speech,"तेज होती है aa तो काफी कुछ फायदे होंगे उसकी वजह से ।",0001000000000,,"It gets faster, there will be many benefits because of it."
+609.536928,610.060527,4,overlap,,,,
+610.060527,616.036198,1,speech,"हुआ नहीं तो ऐसा क्यों हैं क्या चीजे हैं और आप भबिष्य क्या देखती है photonic computing [NOISE]",000000000000000001,,"If it hasn't happened then why is it so, what is it and what future do you see in photonic computing?"
+616.101812,631.54308,4,speech,"So aa, Photonic Computing में course का दो तीन चीज़ें हैं जो हो रही हैं एक तो जो नई चीज़ आज कल technology आ रही हैं उसको हम बोलते हैं Silicon Photonics तो अभी तक हम जो Fiber Optics की बात कर रहे हैं वो भी Silica से ही बना होता हैं but it is not pure Silicon.",010000000000000000000000000000000000000000000000000000000,,"So, there two or three things are happening in the 'Photonic Computing' course. So, one is,  today's new upcoming technology, called 'Silicon Photonics'. So, the 'Fiber Optics', which we are talking about as yet, is made of Silica, but it is not pure Silicon."
+631.827105,632.483612,3,overlap,,,,
+632.483612,639.735526,4,speech,"SiO2 होता हैं silicon element और oxygen मिला के [BREATH] जो हम बालू बोलते हैं [BABBLE] तो उसको refine करके वो",000000000100000100000,,"SiO2 is a mixture of the elements, Silicon and Oxygen, which we call sand. So, after refining this"
+639.738243,640.924364,3,overlap,,,,
+640.924364,666.117942,4,speech,"लेकिन एक और uhh upcoming field हैं जिसको हम silicon photonics बोलते हैं जहां पे वो fiber की बात नहीं कर रहे हैं हम अभी, chips की बात कर रहे हैं electronics chips की बात, और उसमें जैसे आपने बिलकुल सही कहा जब laser आया था बात ये हो च रही थी और काफ़ी दिन हो गए दस साल तो हो ही गए होंगे कि हम लोग chips में optical computing करेंगे in fact optical quantum computing की भी बात हो रहे हैं अभी।",000100000000000000000000000000000000000000000000010000000000000000000000000000000000,,"But another upcoming field is there, which we call 'Silicon Photonics', where we are talking about electronic chips, rather than talking about 'Fiber'. And you said absolutely right about it, that after the 'Laser' came, it must have been ten years that we will do optical computing in chips. In fact, now we are taking about 'Optical Quantum Computing'."
+666.117942,667.198623,3,overlap,,,,
+667.586559,684.327771,4,speech,"कोई भी technology आम जनता के पास तब आता हैं जब वो cheap हो जाता हैं मतलब उसको बनाने में जितना पैसा जाता हैं वो अगर affordable नहीं होगा तो कोई भी technology prevelant या फिर सब आम जनता के पास नहीं आता हैं।",,,"Any technology comes to the common people only when it becomes cheap. Means, if the amount of money for making that technology is not affordable, then that doesn't becomes prevalent or that doesn't reach the common people."
+684.338579,699.436826,4,speech,"[BREATH] तो अभी तक silicon photonic उस uhh level तक नहीं पहुंचा हैं जहां पे हम उसको normally use कर पाए। इसलिए हम आप आप  को और मुझे अभी silicon photonics की devices अभी बाज़ार में नहीं मिल रहे हैं।",10000001000000000000001100000000001000000,,"So the 'Silicon Photonics' hasn't reach that level yet, where we can use it normally. That's why, now we are not getting any devices of 'Silicon Photonics' in the market."
+699.501671,719.861035,4,speech,"[BREATH] Science का जो progress हैं it is very closely linked with economics, कोई भी technology तब भी उसमें funding जायेगी तब भी वो चीज़ ahh popular होगी जब उसको हम इस level तक पहुंचा पाए कि उसको बनाने में पैसा जा रहा है उससे benefit ज्यादा आ रहा है, [NOISE] तो I",10000000000000000000000001000000000000000000000000100,,"The progress of science is very closely linked with the economics. Whatever technology it be, it will get funding and become popular, only when we will be able to bring it to that level, where the benefit is more than the investment of money to make it. So I"
+719.861035,721.246524,3,overlap,,,,
+721.246524,726.414395,3,speech,"Solid state तो ये जो Solid State LiDAR वगैरह होते है वो silicon photonics होते हैं क्या?",11000000000000000,,"So, are these 'Solid State LiDAR' etc. Silicon Photonics?"
+727.107139,729.157662,4,speech,"Umm नहीं नहीं solid state",11000,,"No. Solid state"
+729.157662,730.660043,1,overlap,,,,
+730.660043,740.12752,4,speech,"Solid tet yeah solid state LiDARs basically are aa the lasers which जो laser use होता हैं those are solid state lasers, लेकिन silicon",110000011111000000000000,,"Yeah, basically those Lasers which are used in Solid State LiDARs are Solid State Lasers, but Silicon"
+740.12752,740.837329,4,overlap,,,,
+740.837329,755.856023,4,speech,"हम बात करें उसमें क्या होता है जो chip है ना, chip में सिर्फ जो रोशनी का ray हैं rays जो बोलते है या waves बोल लीजिए आप, इसमें तो waves ही होएगा सिर्फ वो waves ही आप का पूरा का पूरा information लेके इधर से उधर जा रहा हैं पूरा processing photonics से हो रहा है।",,,"If we talk about this, only the rays of light or you can say waves, are going everywhere in it, taking the whole information. Here it must be waves. The whole processing is being done by 'Photonics'."
+755.993108,756.274106,1,speech,हां,,,Yes.
+756.274106,758.262708,4,overlap,,,,
+758.468053,759.592046,1,speech,"तो one zero",,,"So 10"
+759.592046,764.168953,3,overlap,,,,
+764.168953,766.441154,4,speech,"जैसे अभी अगर हम com communication की",0000100,,"Like, now if we, about communication."
+766.441154,767.161608,3,overlap,,,,
+767.161608,783.693041,4,speech,"Communication में [BREATH] signal तो हमारा optics जा रहा है light जा रही है signal के हिसाब से लेकिन जहां पे वो शुरू हो रहा हैं और जहां पे वो खत्म हो रहा है जिसको हम signal processing बोलते हैं signal processing अभी भी electronics के द्वारा किया जा रहा है, light के द्वारा नहीं।",0010100000000000000000000001110000000000000000000000000,,"In Communication, the signal is going to our optics, light is going according to the signal. But the starting and ending points, which we call Signal Processing, are still done by Electronics, not by light."
+783.693041,784.521777,3,overlap,,,,
+784.521777,786.189602,4,speech,"[BREATH] so similar",100,,"So, similar"
+786.189602,786.594887,3,overlap,,,,
+786.594887,795.439425,4,speech,"उसमें भी वहीं हैं कि LiDAR में li light तो आपका map कर रहा है पूरा लेकिन उसका जो processing है हम लोग कर रहे है वो processing आपका electronic chip कर रहा है।",0000000101100000000010000001000000,,"Same thing in that too, that in LiDAR, light does the entire mapping, but the processing that we are doing is being done by your electronic chip."
+796.007475,798.362806,3,overlap,,,,
+798.362806,800.939814,4,speech,"Vision है that is सब कुछ optics में होगा",,,"It's a vision, that everything will be possible in Optics."
+801.729542,803.987888,3,overlap,,,,
+804.639068,809.391293,3,speech,"हां aa aa अब यह दोनो word समझने में लग रहा हैं electronics और photonics",011000000000000,,"Yes, now we can understand these two words, 'Electronics' and 'Photonics'."
+809.474422,815.667555,4,overlap,,,,
+815.68141,820.766152,3,speech,"हाँ वो सब photon से आप कर लीजिए तो फिर आप कि जो chip है पूरी की पूरी वैसे",,,"Yes, if you do all those things by Photon then your chip will be entirely like"
+820.766152,821.985382,4,overlap,,,,
+821.985382,827.929127,3,speech,"मेरे को सिर्फ एक device पता हैं जो electronics में मैंने अक्सर देखा हैं वो होते है optocouplers वगैरह, लेकिन",,,"I know only one device, that I have seen often in Electronics, that is Optocouplers etc., but"
+827.942982,829.051373,4,overlap,,,,
+829.051373,830.554887,3,speech,"Device है तो वो बना लेते",,,"They are capable of making those devices."
+830.554887,833.415661,4,overlap,,,,
+833.415661,835.507748,4,speech,"अच्छी चीज़ हैं ना? coupler आप का switch के हिसाब से",00000110000,,"It's a good thing, right? Coupler works as switch."
+835.507748,836.185657,3,overlap,,,,
+836.185657,837.071882,4,speech,"किसी भी एक",,,"Any one of these"
+837.071882,838.486548,3,overlap,,,,
+838.486548,842.989386,4,speech,"[BREATH] तो सिर्फ coupler नहीं काफ़ी चीज़ें ऐसी हैं जो कि optics devices",1000000000000,,"So, not only coupler. There are so many things, which are Optics Devices"
+843.005267,844.430293,3,overlap,,,,
+844.430293,845.793633,4,speech,"जो कि हम लोग use करते हैं",,,"Which we use."
+845.793633,846.369977,3,overlap,,,,
+846.369977,850.886669,4,speech,"Even switches amplifies ये सारा optical domain में होता हैं लेकिन एक पूरा का",,,"Even switches, amplifies are there in the Optical domain. But an entire"
+850.900524,852.507691,3,overlap,,,,
+852.507691,856.678011,4,speech,"आप को काफी कुछ devices use करनी होंगी और वो चीजें अभी",,,"You'll need to use a lot of devices and those are now"
+856.678011,857.325365,3,overlap,,,,
+857.325365,858.968123,4,speech,"Remarks भी हैं आप का [BREATH]",000001,,"Your remarks are also there"
+858.968123,860.862185,1,overlap,,,,
+860.889895,865.711395,4,speech,"लेकिन please मुझे बता दीजिएगा अगर ज्यादा ka technical terms use हो रहा है",00000001000000,,"But please tell me if too many technical terms are being used."
+865.711395,868.630137,1,overlap,,,,
+868.630137,870.241942,3,speech,"श्रोता लोग सब technical लोग हैं",,,"Listeners are all technical people."
+870.942967,875.368248,4,overlap,,,,
+876.490494,880.730088,4,speech,"अभी क्या हो रहा है जैसे couplers तो बहूत use हो रही है definitely [BREATH]",000000000000001,,"What is happening now, that definitely, the couplers are being used frequently."
+880.730088,881.415553,1,overlap,,,,
+881.415553,901.50692,4,speech,"If I, वो तो काफ़ी पहले use हो गई थी लेकिन उसके बावजूद processing जो हैं ना वो अभी भी इतना efficient नहीं हुआ हैं कि हम लोग सब कुछ photonic domain में कर पा रहे हैं and that is something which will definitely change yes da definitely future में जाके ये change जरूर आएगा लेकिन as I said",00000000000000111100000000000000000000000000011100111110000,,"If I, it had been used a long ago. But despite of it, the processing is not much efficient yet that we are able to do everything in Photonic domain and that is something which will definitely change in the future. But as i said"
+901.50692,902.036494,1,overlap,,,,
+902.036494,904.662746,4,speech,"उस level तक जाने के लिए there is a lot to be done",,,"To reach that level, there is a lot to be done."
+904.920715,911.792737,1,speech,"पर ah ah Sonali इसमें फ़ायदा aa जैसे हम लोग यह कहते है कि light ज्यादा तेज़ी से travel करेगी",01101110000000000000,,"But Sonali, as we say that the light will travel faster."
+911.792737,913.192081,4,overlap,,,,
+913.192081,918.900293,1,speech,"जो हमें aa मिलेगा वो ज्यादा हो पर ऐसा क्यों है  photon electron से इतना ज्यादा तेज़ क्यों होता है?",001000000000000000000,,"Whatever we will get, that must be more. But what is the reason that Photon is faster than Electron?"
+919.361111,925.199863,4,speech,"[LAUGH] photonil तो electron जो हैं, electron travel करता हैं copper wire के through से ।",1101110000000000,,"So, electron travels through the copper wire."
+925.598815,925.935707,1,hmm,,,,
+925.944573,927.061639,4,speech,"usually electronic .",,,"Usually electronic."
+927.061639,927.504919,1,overlap,,,,
+927.584709,933.914748,4,speech,"through से तो उसमे जब, बहुत सारे electrons millions of electrons जा रहे हैं [BREATH] ओ आपस में टकराते हैं",11000111000000100000,,"So when millions of electrons are going into it, they collide with each other."
+934.278237,934.556626,1,overlap,,,,
+934.556626,937.292541,4,speech,"वो टकराते हैं उसे heat पैदा होती हैं ।",,,"When they collide, heat is generated."
+937.735821,938.391876,1,overlap,,,,
+938.480532,956.991905,4,speech,"जब वो heat पैदा होती हैं आपका loss of energy बहुत ज्यादा होता हैं, that  is number one [BREATH] so now that वो चीज हमारा aa speed के साथ नहीं I am talking of energy loss दूसरा [NOISE] हम आते हैं speed के उपर speed कोई भी चीज एसे हम जानते हैं सिर्फ electromagnetic [NOISE] wave ऐसी चीज हैं जो की।",00000010000000000001001000000000000000100000000000000001000000,00000000000000000000000100000000000000000000000000000000000000,"When heat is generated, the loss of energy becomes very high, that is number one. So now, that thing, I am talking of energy loss, not about the speed. Secondly, let's come to the speed. Speed of anything, like as we know, only the Electromagnetic wave is such a thing which"
+957.293336,966.060842,4,speech,"fastest in the universe जाती हैं क्यूंकि वो electromagnetic wave हैं वो एक चीज़ नही हैं वो wave हैं सिर्फ energy trans move कर रहा हैं।",00000000000000000000010000,,"It travels fastest in the universe, because it is an electromagnetic wave. It is not an object, it is a wave. Only energy is moving."
+966.132339,966.860606,0,noise,,,,
+966.95684,987.782135,4,speech,"तो कोई भी चीज़ जो कि particle नही हैं, वो आपका faster जाएगा ही जाएगा [NOISE], अब वही light जब हम optical fiber के through भेजते हैं [BREATH] वो बहुत slow हो जाता हैं वो vacuum के speed से फिर, [NOISE] अगर हम उसको electron electrons के साथ compare करेंगे तो फिर electron एक चीज़ हो गई।",000000000000000100000000000100000010000110000000000000000,,"So anything which is not particle, will obviously go faster. But when light is sent through the Optical Fiber, it appears to slow down very much, compared to the speed in vacuum. Then if we compare it with an electron, then the electron will be considered as a thing"
+988.189953,996.293111,4,speech,"और wave energy form हो गया, तो the energy form तभी भी आपका faster ही travel करेगा as compared to the electron.",,,"And the wave will be considered as an energy form. Then still, the energy form will travel faster, as compared to the electrons."
+996.49702,996.851644,1,hmm,,,,
+997.16194,998.137862,3,overlap,,,,
+998.137862,1005.816677,3,speech,"ये भी नई चीज मुझे समझ में आई Sonali तो जो जो electromagne जो fiber optic होती हैं उसमें light की speed से नही जाती हैं light मतलब",0000000000111000000000000001,,"Sonali, this is also a new thing, which I understood. So in Fiber Optic, light does not travel at the speed of light."
+1005.940965,1009.539903,4,overlap,,,,
+1009.539903,1010.820606,4,speech,"[LAUGH] नहीं नहीं नहीं नहीं ।",101110,,No.
+1010.820606,1011.182661,3,hmm,,,,
+1011.391229,1012.436345,4,speech,"ahh it is much",1000,,"It is much"
+1012.436345,1013.101014,3,overlap,,,,
+1013.101014,1018.882661,4,speech,"about silica में it is around तीन lakh divided by one point five five approximately",,,"About, in Silica, it is around three lakh divided by 1.55 approximately."
+1019.290479,1020.088383,2,hmm,,,,
+1020.097248,1021.099061,3,overlap,,,,
+1021.276979,1021.536362,3,speech,ठीक,,,Right.
+1021.536362,1021.893014,4,speech,"जी ।",,,Yes.
+1022.022705,1023.173611,3,speech,"ठीक ठीक ।",010,,Right.
+1023.279999,1034.208298,1,speech,"नही तो इस जैसा आप कहे रही थी Sonali तो फिर आजकल challenges क्या हैं? क्यों ये जो एक vision था वो अ अभी तक realize नहीं हुआ हैं तो कहाँ पर बात अटकी रहेगी?  सिर्फ",1110000000000000000000100000000000000,,"Sonali, as you were saying, then what are the challenges these days? Why this vision has not been realized yet? Then how long will this matter remain stuck? Only"
+1034.208298,1035.159903,4,overlap,,,,
+1035.180984,1038.328272,1,speech,"Thread की हैं बात की जैसे क्योंकी मैं इसलिए पूछ रहा हु जैसे",0000110000000,,"It's a matter of thread. I am asking because, as"
+1038.475638,1039.131692,4,overlap,,,,
+1039.291273,1040.568583,1,speech,"act आया US में ।",,,"Act came to the US."
+1040.568583,1040.975737,4,speech,"जी ।",,,Yes.
+1041.000888,1041.281886,1,speech,"तो ।",,,So
+1041.28729,1042.130285,4,overlap,,,,
+1042.130285,1046.135516,1,speech,"एक काफी portion रखा गया हैं aa advance listeners के लिए।",00000010000,,"A considerable portion has been kept for advanced listeners."
+1046.2685,1047.030942,4,overlap,,,,
+1047.030942,1048.742003,1,speech,"उस में एक चीज़ हैं photonics के लिए",,,"There's a thing for photonics."
+1048.742003,1050.373273,4,overlap,,,,
+1050.426467,1053.626948,1,speech,"तो टो aa बात कहाँ पर अटकी हैं आज की लिए",01100000000,,"So, where the matter is stuck for today?"
+1053.733336,1063.379109,4,speech,"aa so एक तो हैं जो technology जरुरत होती हैं photonic chips को बनाने के लिए, clean rooms and state of the art laboratories [BREATH] ।",10000000000000000000000010,,"So one thing is, the technology required for making the Photonic Chips, is clean rooms and state of the art laboratories."
+1063.379109,1063.578009,1,hmm,,,,
+1063.588817,1065.240885,4,speech,"that is very expensive .",,,"That is very expensive."
+1065.302944,1065.719627,1,hmm,,,,
+1065.826014,1072.072799,4,speech,"जो uhh चाहे आप optic अभी stan जो fibers telecom में use होते हैं वो तो commercialise हो गए, [BREATH] तो ।",0111011100000000000110,,"The Optic Fibers, used in telecom, have already been commercialized."
+1072.072799,1072.149128,1,overlap,,,,
+1072.149804,1083.70793,4,speech,"उसके लिए भी फिर भी जब आप उसका processing करते हैं, बनाते हैं, you still need a clean room, [BREATH] similarly [NOISE]. शायद चाहे clean room ज्यादा बोल दिया मैंने but you still need a clean environment.",0000000000000000000111000000000000000,,"Even for that also, when you are processing and making it, you still need a clean room. Maybe, clean room is little too much I said, but you still need a clean environment."
+1083.787721,1083.920654,1,overlap,,,,
+1083.920654,1100.09156,4,speech,"similarly जब जब हम sillicon photonics की बात कर रहे हैं  [BREATH] एक तो हैं commercial aspect की वो  बहुत expensive हैं, दूसरा हैं [BREATH] light जो technology हैं जो science हैं वो अभी तक हम उस level पे पहुँचे नहीं not the science the technology, अभी तक",00100000000010000000000000100000000000000000000011,,"Similarly when we are talking about Silicon Photonics, one is the commercial aspect, that it is very expensive. The second one is, the technology of light has not reached the level yet, not the science."
+1100.09156,1100.394171,1,overlap,,,,
+1100.394171,1107.937616,4,speech,"उस level पे पहुँचे नहीं हैं [BREATH] जहाँ पे losse  जो energy loss हो रहा हैं to do the processing वो acceptable level पे आया हैं ।",0000001001000000000000000000,,"We have not reached that level yet, where the energy loss to do the processing, has come to an acceptable level."
+1108.123793,1108.700057,1,overlap,,,,
+1108.744385,1115.810269,4,speech,"fiber optics optical fiber पहली बार aa discover हुआ था उसमें loss था twenty dB fa per metre",110000100000000100,,"The first discovered Optical Fiber were having the loss of 20 dB per metre."
+1116.102834,1116.708275,1,overlap,,,,
+1116.708275,1120.154413,4,speech,"की one by आप समझ लीजिये three dB is fifty percent",10000000000,,"Let's assume, 1 by 3 dB is almost 50 percent."
+1120.349456,1120.775005,1,hmm,,,,
+1120.775005,1122.282157,4,speech,"तो वो twenty dB था ।",,,"So that was 20 dB."
+1122.370813,1123.026868,1,overlap,,,,
+1123.266239,1132.811631,4,speech,"बीस साल बाद, जाके अभी के level पे पहुँचा हैं जब हमने realise किया कि हम silica को purify कर सकते हैं ninety nine point nine nine percent तक [NOISE]",000000000000000000000000000001,,"After 20 years, we have reached the present level realising that we can purify Silica upto 99.99 percent."
+1132.811631,1133.968046,1,overlap,,,,
+1133.968046,1147.185767,4,speech,"अभी silicon technology उस level पे नही पहुंचा है जहाँ पे हम लोग losses को reduce कर सकते हैं [BREATH] जिस level पे वो usable हो सकती हैं। [BREATH] so it is a material plus technology problem it is not one problem",000000000000000000011110000010000000000000,,"The Silicon technology has not reached that level yet, where we can reduce the losses and it can be usable. So, it is a material plus technology problem. It is not one problem."
+1147.315459,1164.606533,4,speech,"तो कोई भी क्षेत्र पूरी पु पूरी तरीके से develop होने के लिए उसको वो बीस साल देना ही पड़ेगा। हम लोग एक बात कहते थे जब हम lab में काम करते थे कि table talk in the lab और table in the shop के बीच में बीस साल का अन्तर होता हैं।",00001100000000000000000000000000000000000000000000000,,"So, for any area to develop completely, 20 years should be given to it. We used to say one thing when we used to work in the lab, that there is a difference of 20 years between the table talk in the lab and the table talk in the shop."
+1164.907963,1165.612761,1,overlap,,,,
+1165.612761,1174.150782,4,speech,"कोई भी product उस बीस साल को उसको जाना ही हैं उससे पहले वो नही पहुँच सकता हैं आपका, तो silicon photonics is at that stage",,,"Any product has to go through that 20 years before it can reach your market. So Silicon Photonics is at that stage."
+1174.775376,1178.215229,3,speech,"[NOISE] पर बीस साल में हो जाएगा वो भी बहुत बड़िया चीज़ हैं आपको लग रहा हैं",10000000000000000,,"But that is also a very good thing that you feel that it will happen in 20 years."
+1178.312751,1179.323429,4,speech,"I am hopeful.",,,"I am hopeful."
+1179.323429,1179.559997,3,overlap,,,,
+1179.559997,1180.967689,4,speech,"believe in photonics but मुझे",,,"Believe in Photonics, but I"
+1180.967689,1181.788066,3,overlap,,,,
+1181.80528,1202.81727,4,speech,"aa लगता हैं definitely it will be a big hinderance क्युकी अभी भी जैसे aa optical fibers हैं aa सिरफ normal fibers जो हम जिसको single mode multi mode fibers कहते हैं वही सिरफ commercialise हुई हैं अभी भी जो चीजे specialised fibers बोलते हैं photonic crystal fiber an जिसको हम ।",1000000000000010001000000000000000000000000000000000,,"Looks like, definitely it will be a big hindrance, because still, only the available normal fibers, which we call Single Mode and Multi Mode fibers, have been commercialized. Still, what is called Specialized Fibers like Photonic Crystal Fiber and which we"
+1202.923657,1219.899443,4,speech,"special fibers भी होते हैं, तो वो अभी भी बहुत limited जगहों पे use हो रही हैं क्यूंकि उसका cost अभी भी बहुत high हैं [BREATH] और कुछ ही labs में पूरे दे पूरे world में जो की उन fibers को बना सकती हैं, [BREATH] तो time",00000000000000000000000001000011100000000000100,,"There are also special fibers, but they are still used in very limited places because their cost is still very high and there are very few labs in the world that can make such fiber. So, time"
+1219.953481,1220.75238,1,overlap,,,,
+1220.75238,1227.986709,4,speech,"hopeful क्योंकी अगर कोई technology ऐसी हैं, जो की sustainable भी हैं, तो वो photonics technology हैं ।",,,"Hopeful, because if there is any technology which is sustainable, then that is Photonics technology."
+1235.556305,1244.752897,2,speech,"आपके ये sustainable कहने से मुझे एक और सवाल याद आया कि अभी एक ahh  आप कुछ देर पहले बात करते वक्त मुझ से बता रही थी",0000000000000010000000000000,,"When you said 'sustainable', I remembered another question that, a moment ago, you were telling me a thing, while talking to me"
+1244.764538,1255.119435,2,speech,"की एक experiment हुआ हैं december twenty twenty two में जिस में अअ एक बड़ा breakthrough आया हैं जो future में शायद clean technology के हिसाब से एक breakthrough हो सकता हैं।",00000000000010000000000000000000,,"An experiment has taken place in December 2022, in which a big breakthrough has come, which in the future, can probably be a breakthrough in terms of clean technology."
+1255.119435,1263.314879,2,speech,"हालांकि ये काफी नए [NOISE] stage में हैं पर उस में laser का उपयोग हुआ हैं और उसके through fu fusion की करने की कोशिश हुई है",000010000000000000010100000,,"Although it is in a very new stage, but Laser has been used in it and attempts have been made to do fusion through it."
+1263.314879,1269.385794,2,speech,"[BREATH] तो थोड़ा उसके बारे में बता सकते हैं कि ये क्या experiment था? उस में क्या हुआ हैं? आगे क्या हो सकता हैं?",100000000000000000000000,,"So can you tell us a little, what this experiment was? What happened in that? What could happen next?"
+1269.385794,1270.084269,4,overlap,,,,
+1270.503354,1275.206422,4,speech,"[BREATH] this ए ये बहुत ही exciting एक experiment हुआ हैं [BREATH]",111000000001,,"This is a very exciting experiment, which has happened."

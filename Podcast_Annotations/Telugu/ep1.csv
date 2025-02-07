@@ -1,0 +1,543 @@
+orderNo,startTime,endTime,speaker,contentType,transcript,disfluency1,disfluency2,translation
+1,0.008213,1.136802,1,speech,"expect చేశా నేను",NULL,NULL,"I expected it"
+2,1.136802,1.492942,2,overlap,NULL,NULL,NULL,NULL
+3,1.599581,1.979451,2,speech,అంటే,01,NULL,"That is"
+4,1.979451,2.618626,1,overlap,NULL,NULL,NULL,NULL
+5,2.618626,4.852062,1,speech,"feel ఉంది వస్తది ఈ question  వస్తది అని చెప్పి",NULL,NULL,"I feel, it is coming, this question is coming"
+6,4.905381,5.706137,2,overlap,NULL,NULL,NULL,NULL
+7,5.706137,7.74507,1,speech,"not afraid to ఆ ఆ you know face this questions",0001100000,NULL,"not afraid to, you know, face these questions"
+8,7.74507,10.954014,2,speech,"and ఇంకోటి ఇట్లాంటివి interview  లాగా తీసుకెళ్లాలి అనుకోలేదు నేను  just మీ genuinely",NULL,NULL,"And another one, I didn't think it should be taken like an interview, just genuinely your"
+9,10.954014,12.085759,1,overlap,NULL,NULL,NULL,NULL
+10,12.163784,22.000907,1,speech,"see I respect your question first of all and, hmm competition వచ్చేటప్పటికీ, see I don't want talk about him much",00000000010010000000,NULL,"see I respect your question first of all and despite the competition, I don't want to talk about him much"
+11,22.000907,22.243068,2,overlap,NULL,NULL,NULL,NULL
+12,22.244717,28.024166,1,speech,"competition గురించి లేకపోతే ఇప్పుడు real lifeలో competition ఉంటది మీ lifeలో competition ఉంటది నా lifeలో competition",000000001000000,NULL,"If it is not about competition, now there is competition in real life, there is competition in your life, there is competition in my life."
+13,28.024166,28.93192,2,overlap,NULL,NULL,NULL,NULL
+14,28.93192,37.627937,1,speech,"but we have that competitive energy in between us that's what I can feel and, I respect his work hmm and I respect my work as well",000000000000000000010000000,NULL,"But we have that competitive energy between us, that's what I feel and I respect his work and I respect my work as well."
+15,37.628884,37.867068,2,overlap,NULL,NULL,NULL,NULL
+16,37.867068,39.300275,1,speech,"In competitive అ అ content",00110,NULL,"In competitive content"
+17,39.300275,40.353162,2,overlap,NULL,NULL,NULL,NULL
+18,40.353162,41.895654,1,speech,"ఇంకా ఉండడం అన్నది ఈ రోజుల్లో  చాలా కష్టం",1000000,NULL,"It's hard to stay still these days"
+19,42.014746,42.277569,2,speech,hmm,1,NULL,
+20,42.434467,48.059678,1,speech,"and దానికి తగ్గట్టు maintenance ఉంటది దానికి తగ్గట్టుగా you know you have to keep our word to our communities",000001100000000000,NULL,"and there will be maintenance according to that, you know you have to keep our word to our communities"
+21,48.219836,49.023129,2,speech,"correct yeah",01,NULL,Correct
+22,49.446893,62.112504,1,speech,"So yup apart from that వస్తాయి ఒకమాట నేను అంట ఒకమాట అవతలోల్లు  అంటారు మళ్ళీ అంటారు మళ్ళీ నేను అంటాను its like never ending process so why not keep silence out of it and ఇహుం మన personal inner peace పాడుగట్టుకోడం",01000000000000000000000000000000100000,NULL,"So apart from that, one word comes, I say one word, the others say it again, they say it again, I say it again, its like never ending process, so why not keep silence out of it and It destroys our personal inner peace."
+23,62.112504,64.223303,2,speech,"The what I feel is like issues పక్కకి పెడితే",100001000,NULL,"What I feel is issues put aside"
+24,64.223303,64.457379,1,speech,hmm,1,NULL,
+25,64.909107,65.972719,2,speech,"competition is an energy",NULL,NULL,"Competition is an  energy"
+26,66.243756,67.645533,1,speech,"yes ఆ energy  అనేది ఉంది",NULL,NULL,"Yes that energy is there"
+27,67.697496,69.9356,2,speech,"ఆ hidden energy అది basically అందరికి అర్ధం కాకపోవచ్చు",10000000,NULL,"That hidden energy basically may not be understood by everyone"
+28,69.9356,80.885469,1,speech,"ఉంటది ఆ ఆ ఒకల్ని ఒకరు drag  చేసుకుంటా energy  అన్నది and yeah it will go on ఆ ఆ the మ్య the matter ఏంటి అంటే ఇక్కడ even if it go on or doesn't go on",01100000000010000111100001000000000,NULL,"They drag each other down, it takes energy and it will go on, the matter is, even if it goes on or doesn't goes on"
+29,81.053557,89.061105,1,speech,"ఆ kind of ఆ you know this kind of experience అన్నది everyone must have ఎందుకంటే competition can bring out the best in you, that's what",1111000000000000000000000,NULL,"you know this kind of experience everyone must have. that is because competition can bring out the best in you, that's what"
+30,89.061105,89.469886,2,overlap,NULL,NULL,NULL,NULL
+31,90.218155,90.729646,2,speech,"He is",NULL,NULL,"He is"
+32,90.739695,92.480899,1,speech,"నీకు ఎలా ఎలాంటి competitions ఉన్నారు",010001,NULL,"What kind of competitions do you have?"
+33,92.480899,93.060057,2,overlap,NULL,NULL,NULL,NULL
+34,93.060057,94.375268,2,speech,"ముందుగా ఒక question ఒక answer ఇవ్వాలి మీకు",NULL,NULL,"First one question and an answer should be given to you"
+35,94.375268,94.659637,1,overlap,NULL,NULL,NULL,NULL
+36,94.66195,95.727757,2,speech,"అంటే ఒక point చెప్పాలి మీకు",NULL,NULL,"That is, I have to tell you one point"
+37,95.727757,96.117033,1,speech,yeah,NULL,NULL,yes
+38,96.500933,103.781587,2,speech,"ఆ  ఈ phase నడిచినప్పుడు recent గ ఒక చిన్న issue అయ్యి ఆ  digital గ కొంచం అందరికి visible ఉన్నప్పుడు మీ మీ మీకు మీ competition person కి",10000010000100100001100011,NULL,"When this phase runs, recently little digital bit is visible to everyone,There is a small issue that happened between you and your competition."
+39,103.781587,104.118277,1,speech,hmm,1,NULL,
+40,104.118277,104.736997,2,speech,"issue అయినప్పుడు",NULL,NULL,"When the issue"
+41,104.736997,105.105125,1,speech,hmm,1,NULL,
+42,105.341283,106.443216,2,speech,"నాకు personal గ",001,NULL,"For me personally"
+43,106.443216,106.709813,1,overlap,NULL,NULL,NULL,NULL
+44,106.709813,108.036744,2,speech,"ఒక పది పన్నెండు messageలు వచ్చినియ్",NULL,NULL,"I got ten or twelve messages"
+45,108.036744,108.619883,1,speech,okay,NULL,NULL,okay
+46,108.973052,111.87232,2,speech,"అబ్ asking about your well being is he alright?",100000000,NULL,"Asking about your well being. Is he alright?"
+47,111.987305,113.038597,1,speech,"oh literally",10,NULL,literally
+48,113.153583,115.87216,2,speech,"నేను ఒక chicken shop దగ్గరకి వెళ్తే అక్కడ ఒక person నన్ను అడిగాడు అదే రోజు night",NULL,NULL,"When I went to a chicken shop, a person asked me that same day night"
+49,115.87216,116.364953,0,noise,NULL,NULL,NULL,NULL
+50,116.393699,116.822718,1,speech,"ఆ రోజు night",NULL,NULL,"That day night"
+51,116.822718,117.366966,2,overlap,NULL,NULL,NULL,NULL
+52,117.366966,119.149236,2,speech,"The that's what the community up",100000,NULL,"That's what the community up"
+53,119.3135,119.781654,1,overlap,NULL,NULL,NULL,NULL
+54,119.781654,120.645902,2,speech,"Fashion was subscribe",010,NULL,"Subscribe the fashion"
+55,120.645902,121.539284,1,overlap,NULL,NULL,NULL,NULL
+56,121.539284,122.179915,2,speech,"ఊర్లెదురు ఉన్నాయా",NULL,NULL,"Are there many?"
+57,122.54951,126.808067,1,speech,"yes ఆ I'm I'm very glad that I have this kind of you know support",011000000000110,NULL,"Yes I'm very glad that I have this kind of support"
+58,126.984651,127.686531,2,overlap,NULL,NULL,NULL,NULL
+59,128.241274,131.789387,1,speech,"love you all so ఏంటంటే ఆ kind of support నాకు ఎప్పుడు ఉంటది",000001000000,NULL,"love you all so I will always have that kind of support"
+60,131.871519,132.30682,2,overlap,NULL,NULL,NULL,NULL
+61,132.30682,141.78488,1,speech,"ఆ ఎప్పుడు కూడా haven't felt low because of competition or what ever the force it is ఎప్పుడు నా పని నేను చేసుకుంటూ వస్ చేసుకుంటూ పోత ప్రతి దానికి నేను కెలికాను అనమాట",10000000000000000000010000000,NULL,"I haven't felt low because of competition or whatever the force it is, whenever I do my work and live, I don't get involved in everything"
+62,141.78488,142.096983,2,overlap,NULL,NULL,NULL,NULL
+63,142.096983,142.762254,1,speech,"అది మాత్రం పక్క",NULL,NULL,"That is for sure"
+64,142.836173,143.611408,2,speech,"అవును వేప్~",01,NULL,Yes
+65,143.611408,144.039184,1,overlap,NULL,NULL,NULL,NULL
+66,144.039184,144.684351,1,speech,"I have seen you know",NULL,NULL,"I have seen, you know"
+67,144.684351,145.043447,2,speech,yeah,NULL,NULL,yes
+68,145.356916,150.716975,1,speech,"~వ కొంచం patience ఎక్కువ [COUGH] self contentగ ఉంటా ఎప్పుడు నేను ok I don't let all those words come out",1000100001100000000,NULL,"I have little more patience and always be self content. I don't want to let all those words come out"
+69,150.737294,151.377926,2,speech,"అంత easily",NULL,NULL,"So easily"
+70,151.377926,152.733107,1,overlap,NULL,NULL,NULL,NULL
+71,152.769887,154.940952,1,speech,"నేను ఆ ఒక్క situation ఏ కాదు ఇది వరకు చాల situations చూసాం మనం",NULL,NULL,"Me, not only that one situation, we have seen many situations till now"
+72,155.303846,156.073658,2,speech,"వేరే వాళ్ళతో issues",0001,NULL,"Issues with others"
+73,156.073658,156.371566,1,overlap,NULL,NULL,NULL,NULL
+74,156.371566,159.476164,1,speech,"been there through you be you've been there to my thick and అ thin",11011000000010,NULL,"You've been there through my thick and thin"
+75,159.712653,163.009478,2,speech,"so I am not a person who can judge who is right who is wrong అని",NULL,NULL,"so I am not a person who can judge who is right, who is wrong like that"
+76,163.027302,166.835374,2,speech,"~తే personalగ as a friend I can tell something మీ మీ supportiveగ అన్ని కనబడతాది బైట",100000000110000,NULL,"personally as a friend, I can tell something, your supportiveness is visible outside"
+77,166.836278,179.401445,1,speech,"ఈ fashion arena అన్నది its like blooming right now దాన్ని negativity తో పాడుకొట్టద్దు అది అలానే bloom  అవ్వాలి చాల కొత్తమంది కూడా వస్తున్నారు చాల చూస్తున్న నేను మొన్న six years old boy",000011000000000000000000000000,NULL,"This fashion arena is blooming right now. don't spoil it with negativity, it should bloom like that. Many new people are also coming. I was watching a lot the other day, a six year old boy"
+78,179.409658,180.175238,2,speech,"హా so I'll tell",1000,NULL,"so I will tell"
+79,180.175238,181.577949,1,speech,"ten ట ten years old boy six",1100000,NULL,"ten years old boy. Six"
+80,181.577949,182.226794,2,overlap,NULL,NULL,NULL,NULL
+81,182.226794,187.93066,1,speech,"చాలా బాగా చేసాడు ఆ dre dre dressing అది అంత కూడా so that's what ఇగ ఇదంతా చూస్తుంటే ఎం మా~",000111000000000011,NULL,"He has done excellent and also that dressing was done very well, so that's what looking at all this, why"
+82,187.977404,188.599464,2,speech,పట్టించుకోమా,NULL,NULL,"don't mind"
+83,188.599464,189.626908,2,overlap,NULL,NULL,NULL,NULL
+84,189.667974,192.066236,1,speech,"and మాకు కూడా అంత time లేదు ఇయ్యన్నీ పట్టించుకోడానికి",NULL,NULL,"And even we don't have much time to take care of all this"
+85,192.066236,196.878892,2,speech,"ఇంక నేను ఒకసారి చూసాను actually ఒక vlogకి నేను మీతో వచ్చినట్టు గుర్తు ఆ రోజు actually మీ mood బాగాలేకుండే because of some issue",NULL,NULL,"Also I saw once actually, I remember I came with you for a vlog. That day actually your mood was not good because of some issue"
+86,196.878892,197.388405,1,speech,hmm,1,NULL,
+87,197.388405,198.357861,2,speech,"ఇంట్లో ఏదో అయిందో నాకు తెలీదు",NULL,NULL,"I don't know whether something happened at home"
+88,198.357861,198.783018,1,speech,hmm,1,NULL,
+89,198.907851,201.342791,2,speech,"ఆ what personal issues ఉండొచ్చు financial issues",1100000,NULL,"There can be personal issues or financial issues"
+90,201.342791,201.893757,1,overlap,NULL,NULL,NULL,NULL
+91,202.160354,206.866465,2,speech,"కానీ you are you are battle then vlog అనే timeకి పది నిముషాలు ముందు వరకు you are different",01100000000000000,NULL,"You are in battle but ten minutes before the time of the vlog, you are different"
+92,206.866465,207.548162,1,laugh,NULL,NULL,NULL,NULL
+93,207.548162,208.278093,2,speech,"reserve different",NULL,NULL,"Reserve different"
+94,208.278093,210.414577,1,overlap,NULL,NULL,NULL,NULL
+95,210.587055,215.202887,1,speech,"ఆ because I am doing what I love and people are there to see people are there to support me",10000000000001111100,NULL,"because I am doing what I love and  people are there to support me"
+96,215.334298,215.588908,2,speech,nice,NULL,NULL,nice
+97,215.588908,222.282686,1,speech,"and వాళ్ళు ఇచ్చే energy boost ఏదైతే ఉంటాదో no matter what it is what I lost in my life మర్చిపోయేలా చేస్తారు వాళ్ళు",NULL,NULL,"and whatever energy boost they give, no matter what it is, what I lost in my life, they make me forget"
+98,222.282686,223.194353,2,overlap,NULL,NULL,NULL,NULL
+99,223.342191,224.17994,1,speech,"[LAUGH] అది",10,NULL,"That is"
+100,224.22922,226.323592,2,speech,"and ఇందాక  you were asking something నేను మధ్యలో cut  చేశా",NULL,NULL,"And before, you were asking me something, I cut it in the middle"
+101,226.323592,232.407495,1,speech,"Competition ఎం మీకెలా ఉన్నదీ content creation అంటే, ఎవరో ఒకళ్ళు వస్తారు inspiring అంటారు hmm content చేస్తూ ఉంట",0000000000001001,NULL,"What do you think about competition and content creation, someone will come and say inspiring things while making content"
+102,232.407495,232.774553,2,speech,అవునవును,NULL,NULL,yes
+103,232.774553,233.29886,0,noise,NULL,NULL,NULL,NULL
+104,233.40339,235.489549,1,speech,"అలాంటి వాళ్ళు ఎవరైనా ఉన్నారా not not",000011,NULL,"Are there any such people?"
+105,235.489549,236.158549,2,overlap,NULL,NULL,NULL,NULL
+106,236.158549,237.181473,2,speech,"There are couple of people",NULL,NULL,"There are couple of people"
+107,237.181473,237.526429,1,speech,hmm,1,NULL,
+108,237.526429,240.105381,2,speech,"ఆ డా basicalగ competitionల  అనుకోను ఎందుకు అంటే నాదీ share bro",11000000000,NULL,"Basically I don't think its a competition, that is my share bro"
+109,240.105381,240.425697,1,speech,hmm,1,NULL,
+110,240.425697,243.037502,2,speech,"ఇప్పుడు there are people who talk about facts",NULL,NULL,"Now there are people who talk about facts"
+111,243.103208,243.571361,1,overlap,NULL,NULL,NULL,NULL
+112,243.571361,251.513549,2,speech,"ఇప్పుడు talk about case studies but నా ఉద్దేశం ఏంటి అంటే అంటే this is just my view అది అందరికి ఆలా కనబడతాదో  లేదో నాకు తెలీదు i tried to talk about my opinion",0000000001100000000000000000000,NULL,"Now talk about case studies but what I mean is, this is just my view, I don't know if it will be same for everyone or not, I tried to talk about my opinion"
+113,251.587468,251.891357,1,speech,hmm,1,NULL,
+114,251.891357,264.260472,2,speech,"ఇప్పుడు ఒక situation  అయింది దాన్ని ఎలా చూడాలి అనేదాని గురించి మాట్లాడతాం తప్ప ఈ situation ఇలా అని చెప్పి దాన్ని exaggerate చెప్పి మాట్లాడాను నేను all my blood and sweat i use to build up the content crispగ ఉండాలి అవతలవాళ్ళకి నా opinion అర్ధం కావాలి",NULL,NULL,"Now there is a situation, we talk about how to deal with it, but I don't exaggerate it like by saying that this situation is like this. I used all my blood and sweat to build up the content, it should be crisp so that others can understand my opinion"
+115,264.260472,264.745052,1,speech,hmm,1,NULL,
+116,264.792829,267.076675,2,speech,"and అ touch wood like కొంచం relate అవ్వగలుగుతున్న నేను",010010000,NULL,"And touch wood I can relate a bit"
+117,267.076675,267.449911,1,speech,hmm,1,NULL,
+118,267.556549,272.925423,2,speech,"వంద మందికి ఈ video చుస్తే వంద మంది లో కనీసం డెబ్భై మంది అచ్చ correctఏ అన్న నేను కూడా అట్లనే అనుకున్న అనే ఈ stage కి నేను రాగలుగుతున్న",000000000001000000000100,NULL,"I have come to this stage, that if a hundred people watch this video, at least seventy people out of a hundred will think it is correct, I also thought the same like that"
+119,272.925423,273.336084,1,speech,hmm,1,NULL,
+120,273.336084,274.584494,2,speech,"that's what is giving me energy",NULL,NULL,"that's what is giving me energy"
+121,274.633773,282.231005,1,speech,"competition అంటే it's like ఆ same content చెప్తున్నా సరే people will attract to your way of talking other competitors way of talking",0000100000000000000000,NULL,"Competition means it's like even though saying the same content, people will be attracted to your way of talking, than other competitors way of talking"
+122,282.272071,282.953769,2,speech,"correct correct అది",010,NULL,"That is correct"
+123,283.02805,285.054186,1,speech,"కొంతమంది corrects వాళ్ళు ఉంటారు కొంతమంది corrects మనకు ఉంటాయి",NULL,NULL,"There are some correct people and we have some correct also"
+124,285.089207,285.641585,2,speech,"Hmm అవును",10,NULL,Yes
+125,285.641585,285.975982,1,speech,కొంతమంది,01,NULL,"some people"
+126,285.975982,286.540513,2,overlap,NULL,NULL,NULL,NULL
+127,286.540513,289.25203,1,speech,"కొంతమంది మనకి నచ్చుతారు వాళ్ళకి నచ్చిన వాళ్ళు మనకి నచ్చరు మనకి నచ్చినవాళ్లు వా~",00000000001,NULL,"We like some people, we don't like the people they like, we like them"
+128,289.25203,291.290191,1,overlap,NULL,NULL,NULL,NULL
+129,291.290191,291.939035,1,speech,"అది ఎంత deepగ",NULL,NULL,"That's how much deep it is"
+130,291.939035,293.3098,1,overlap,NULL,NULL,NULL,NULL
+131,293.3098,296.070287,1,speech,"why not let it all out why not keep it aside",NULL,NULL,"why not let it all out and why not keep it aside?"
+132,296.0785,296.277911,2,speech,hmm,1,NULL,
+133,296.313458,298.000395,1,speech,"concentrate on what you're doing",NULL,NULL,"Concentrate on what you are doing"
+134,298.033247,298.493188,2,speech,correct,NULL,NULL,correct
+135,298.608173,300.059864,1,speech,"people are there to support us",NULL,NULL,"people are there to support us"
+1,300.160472,300.889877,2,overlap,NULL,NULL,NULL,NULL
+2,300.889877,308.094446,1,speech,"Competition అంటే కొంత పెంటలు అయ్యాయి మన వైపు కూడా కొంచం పెంట చేశాం అని మాట అవతల వాళ్ళు చేశారు మనం చేశాం కానీ అవి అన్నీ ఏలుతుంటాయ్ just part of the work",NULL,NULL,"Competition means that there has been some planting happening, we have also done some planting on our side. Other side also did, we also did but they are all just part of the work"
+3,308.094446,308.732517,2,overlap,NULL,NULL,NULL,NULL
+4,308.732517,319.477974,1,speech,"Fun ఉంటది అందులోని but, మీకు ఏమన్నా అయ్యాయా ఎందుకంటే, I can see it already ఎందుకంటే see ఇంతవరకు వచ్చారు అంటే మాత్రం కచ్చితంగా కింద పట్టుకొని లాగాలి అన్నోల్లు కచ్చితంగా",NULL,NULL,"There is fun in that, but, something has happened to you, because I can see it already, because, see, you have come so far, means, someone must have held down and pulled for sure"
+5,319.477974,320.120552,2,overlap,NULL,NULL,NULL,NULL
+6,320.120552,321.044754,2,speech,"ఉంటారు ఉంటరు yeah",011,NULL,"Will be there"
+7,321.044754,325.123685,1,speech,"ఆ so growth is a by product of failure that's what I believe",1000000000000,NULL,"so growth is a by product of failure, that's what I believe"
+8,325.123685,325.745744,2,speech,"Very true very",001,NULL,"Very true"
+9,325.745744,326.333243,0,noise,NULL,NULL,NULL,NULL
+10,326.333567,332.988291,1,speech,"So అలాంటి failure like failure అని కాదు it's kind of blunder గానీ లేకపోతే  trigger అయిన point గాని ఎక్కడైనా ఏదైనా ఉందా",000000000000000000010,NULL,"So there is any failure, like, not like failure, it's kind of a blunder, or else there is some trigger point somewhere."
+11,332.988291,334.805951,2,speech,"హా అ అంటే నా నా career లో అంటునా~",11011001,NULL,"That means in my career"
+12,334.805951,335.014515,1,overlap,NULL,NULL,NULL,NULL
+13,335.014515,336.231885,1,speech,"yearలో మీ business లో",NULL,NULL,"in your business during the year"
+14,336.649554,342.034809,2,speech,"అ there is a అంటే ఒక ఒక phase ఉంది bro చాలా చాలా పెంట అది నాకు నా phase కి అయితే ఎప్పటికీ  మర్చిపోను నేను actually",100001100011000000000000,NULL,"It means there is a phase, bro, actually, I will never forget it for my phase."
+15,342.043696,342.594662,1,speech,hmm,1,NULL,
+16,342.621322,346.389223,2,speech,"like నా life మొత్తంలో ఎక్కడన్నా ఒక revanges story  ఉండబోతుంది అంటే may be అదేనేమో",NULL,NULL,"Like, there is going to be a revenge story somewhere in my life means maybe that only"
+17,346.42477,347.1979,1,speech,"The revenge story",NULL,NULL,"The revenge story"
+18,347.1979,347.649332,2,overlap,NULL,NULL,NULL,NULL
+19,347.649332,348.122103,1,speech,okay,NULL,NULL,okay
+20,348.424246,354.511539,2,speech,"అంటే అంత trigger  అయినా నేను actualగ అక్కడ it's like ఒక one and half year back  covid నుంచి తేలుకుంటున్న timeలోనో covidకి ముందో",NULL,NULL,"Means, actually there, I have triggered that much, it's like a one and half year back, during the time when I was recovering from covid or before the covid."
+21,354.516421,355.16514,1,speech,hmm,1,NULL,
+22,355.186918,356.031141,2,speech,"there was a client అనమాట",00001,NULL,"There was a client"
+23,356.031141,356.617654,1,speech,hmm,1,NULL,
+24,356.623673,365.428678,2,speech,"like నేను actually చాలా structuredగ ఉంటా ఒక client onboard అవుతున్నారు అంటే agreements దెగ్గరనుండి bond papers దెగ్గరనుండి mails ప్రతి ఒక్కటి properగ ఉంటది అంటే ఎవరన్నా కొత్తగా వచ్చిన ఇప్పుడు నేను వెళ్ళిపోయా",NULL,NULL,"Like I am actually very structured, if a client is onboarding means, from agreements, bond papers, every mail will be proper. It means if any new people comes now, I am gone"
+25,365.431049,366.206252,1,overlap,NULL,NULL,NULL,NULL
+26,366.206252,366.999687,2,speech,"ఈ company నుంచి నేను ఎళ్ళిపోయా",NULL,NULL,"I left this company"
+27,366.999687,367.29764,1,speech,hmm,1,NULL,
+28,367.29764,369.41218,2,speech,"నా placeకి ఎవరన్నా వచ్చినాకూడా వాళ్ళకి clarity ఉంటది crystal clear ఉంటది",NULL,NULL,"If anyone comes to my place also, they will have clarity, it will be crystal clear"
+29,369.4143,369.760876,1,speech,hmm,1,NULL,
+30,369.760876,376.330196,2,speech,"ఈ client ఎప్పుడు వచ్చాడు ఎం చేసాడు అంత documentation maintain చేసే నేను i was actually treated bad ఒక client",NULL,NULL,"When did this client come and what did he do to maintain the documentation? I was actually treated bad as a client"
+31,376.330196,379.554822,1,speech,"and నేను విన్నది ఏంటంటే మన Vamsi bro కి ఇంతకు ముందు బాగా కోపమెక్కు~",000000100001,NULL,"And what I heard was that our Vamsi was very angry earlier"
+32,379.554822,379.776029,2,speech,what,NULL,NULL,what
+33,379.784916,380.400907,1,speech,"Oh too much",100,NULL,"Too much"
+34,380.400907,381.7133,2,overlap,NULL,NULL,NULL,NULL
+35,381.739959,382.344245,1,speech,"సరే గాని",NULL,NULL,"Okay but"
+36,382.344245,382.717481,2,laugh,NULL,NULL,NULL,NULL
+37,382.717481,384.245969,1,speech,"ఆ చాలా మన colleaguesఉ",1000,NULL,"Many of our colleagues"
+38,384.245969,385.667819,2,overlap,NULL,NULL,NULL,NULL
+39,385.667819,386.209899,1,speech,hmm,1,NULL,
+40,386.209899,388.271581,2,speech,"too much pressure ఉండేది too much కోపం ఉండేది ఎట్లా పడితే అట్లా",NULL,NULL,"There was too much pressure, there was too much anger, however it is"
+41,388.271581,388.618157,1,overlap,NULL,NULL,NULL,NULL
+42,388.618157,391.755112,1,speech,"be aggressive but you can't be you know dumb and aggressive at the same time",000000110000000,NULL,"Be aggressive but you can't be dumb and aggressive at the same time"
+43,391.755112,392.550748,2,laugh,NULL,NULL,NULL,NULL
+44,392.550748,393.141416,1,speech,"I I learned it",1000,NULL,"I learnt it"
+45,393.241542,393.745702,2,speech,hmm,1,NULL,
+46,393.745702,399.74413,2,speech,"ఇప్పుడు ఆ we are talking about this situation కదా ఒక client మాకు around ఒక three four months నుంచి payment ఇవ్వట్లే",01000000000000000000,NULL,"Now we are talking about this situation, a client has not been giving us payment for around three to four months"
+47,399.74413,400.197344,1,speech,okay,NULL,NULL,okay
+48,400.197344,400.410622,0,noise,NULL,NULL,NULL,NULL
+49,400.472828,401.779152,2,speech,"పాపం వాళ్ళ business ఎందుకు ఆపాలి",NULL,NULL,"Unfortunately, why should their business be stopped"
+50,401.779152,402.205707,1,speech,hmm,1,NULL,
+51,402.25014,406.888924,2,speech,"ఆ like ఎం business ఓ పేరు  చెప్పలేను కానీ its like hotel management college అనిమాట అది",1100100000000010,NULL,"I can't say the name of the business, but its like hotel management college"
+52,407.013336,407.644282,1,speech,hmm,1,NULL,
+53,407.653168,415.264567,2,speech,"ఓ వాళ్ళ admissions ఎందుకు ఆపెయ్యాలి వాళ్ళ వాళ్ళ branding ఎందుకు ఆగిపోవాలి marketing అంటే it's like we are stepping into their shoes వాళ్ళ business మేము ముందుకి తీసుకెళ్తున్నాం అనే నమ్మకం నాది",1000011000000000000000000000,NULL,"Why should their admissions be stopped? Why should their branding be stopped? Marketing means it's like we are stepping into their shoes. I believe that we are taking their business forward."
+54,415.370727,421.853891,2,speech,"I was waiting I was waiting I was waiting principal లేరు అంటారు ahh ohh oh MD లేరు chairman లేరు అంటారు ఎట్లెట్లనో చెప్తున్నారు lady management అదిమాట",1111110000001110000000000,NULL,"I was waiting they say there is no principal, there is no MD, they say there is no chairman, they say something. It is lady management."
+55,421.889437,422.547043,1,speech,hmm,1,NULL,
+56,422.778093,431.584674,2,speech,"I respect a lot ahh ah ladies ని కొంచం పెద్ద ageలో పెద్ద experience ఉంటారు so I was waiting waiting సరే situation బాగాలేదు ఏమో finances బాగాలేదు ఏమో నాకు అర్ధమవవుతుంది వాళ్ళు bluff చేస్తున్నారని",0000110000000000001000000000000,NULL,"I respect ladies a lot, they have a lot of experience at a little older age. So I was waiting. Ok? Maybe the situation is not good or the finances are not good. I understood that they were bluffing."
+57,431.620221,432.304486,1,speech,hmm,1,NULL,
+58,432.722154,442.515143,2,speech,"at the end of fourth month నాకు ఇది ఎల్లట్లేదు ముందుకి అని అర్ధమైంది as per the agreements we mentioned clearly website కానీ maintenance అ digital marketing కానీ ఏదన్న service charges కనక రాకపోతే",0000000000000000000000100000000,NULL,"At the end of fourth month I understood that this is not going forward as per the agreements we mentioned clearly website but maintenance and digital marketing but if any service charges doesn’t come"
+59,442.515143,443.06611,1,speech,hmm,1,NULL,
+60,443.06611,447.26754,2,speech,"we can hold the services and what we call catch hold of the",NULL,NULL,"we can hold the services and what we call catch hold of the"
+61,447.26754,447.480454,1,overlap,NULL,NULL,NULL,NULL
+62,447.480454,448.673529,1,speech,"that's your right",NULL,NULL,"that's your right"
+63,448.673529,449.562185,2,speech,"మా hosting లో ఉంది కదా",NULL,NULL,"It is in our hosting"
+64,449.562185,449.787937,1,speech,అవును,NULL,NULL,Yes
+65,449.787937,454.649741,2,speech,"నేను పెట్టేసుకోవచ్చు కదా మా దెగ్గరే ఉంది we can actually ఆ turn down అంటే pause చెయ్యొచ్చు website అన్నిటిని అని రాసుకున్నాము మేము already",000000000100000000000,NULL,"I can handle it, we have it with us. We can actually turn down, that means, pause the website. We have already written everything."
+66,454.649741,455.058523,1,speech,okay,NULL,NULL,okay
+67,455.058523,456.102694,2,speech,"It was agreed mutually",NULL,NULL,"It was mutually agreed"
+68,456.120467,456.698093,1,speech,okay,NULL,NULL,okay
+69,456.782515,468.148426,2,speech,"నేను చేశా వాళ్ళు respond అవవట్లేదు కాబట్టి అది కూడా ఎం respond అయ్యారు నాకు last response ఎం వచ్చిందో తెలుసా your amount is so and so one point five ఏమో ఉన్నింది one lakh fifty thousand ఏదో  come and collect fifty thousand rupees cheque we will do fill full and final settlement అనంగానే",00000000000000000000111111110000000000000000100000,NULL,"I have done it, but they did not respond. Also, what did they respond to? Do you know what the last response I got was? Your amount is one lakh fifty thousand something. He said to come and collect a cheque for fifty thousand rupees. We will do a full and final settlement."
+70,468.148426,468.464036,1,overlap,NULL,NULL,NULL,NULL
+71,468.464036,468.89934,1,speech,"thousand ah",01,NULL,thousand
+72,469.054855,470.57415,2,speech,"నాకు తిక్క లేచిపోయింది నేను reply ఎం ఇచ్చానో",NULL,NULL,"I got mad. What reply did I gave"
+73,470.57415,470.727982,1,overlap,NULL,NULL,NULL,NULL
+74,470.727982,471.485329,1,speech,"mental ఏంటి",NULL,NULL,"what mental"
+75,471.556421,479.656521,2,speech,"ఆ నేనేమన్నా మీ మీ మీ అఫ్ మీ office లో కానీ college లో కానీ పని చేస్తున్న employeeనా ఫి full and final settlement అంటున్నారు అస్సలు full and final settlement అనేది కొ contract ఎక్కడ వచ్చింది",10111100000000001000000000001000,NULL,"I am an employee who is working in your office or college,  you are saying full and final settlement. Actually full and final settlement is, where did the contract come from?"
+76,479.745386,480.447425,1,speech,hmm,1,NULL,
+77,480.490522,481.38449,2,speech,"there should be mutual agreement",NULL,NULL,"There should be a mutual agreement"
+78,481.38449,482.113655,1,overlap,NULL,NULL,NULL,NULL
+79,482.282499,483.556744,2,speech,"నాకు తిక్క లేసి నేను respond అయీపె~",000001,NULL,"I got mad. I responded"
+80,483.556744,483.928306,2,overlap,NULL,NULL,NULL,NULL
+81,483.928306,485.233196,1,speech,"మీరు return లో చేసుకోలేదా రి~",00001,NULL,"You didn’t do it in return"
+82,485.233196,486.085947,2,overlap,NULL,NULL,NULL,NULL
+83,486.085947,488.858554,2,speech,"నాదెగ్గర mails కూడా ఉన్నాయి పెద్ద note notebook ఏ ఉంది చెప్తా మీకు",00000101000,NULL,"I have mails too, I have a big notebook. I will tell you"
+84,488.86744,489.533932,1,speech,okay,NULL,NULL,okay
+85,489.809416,494.126212,2,speech,"నేన్ నేను respond అయ్యి I am holding all the services అని చెప్పి website credentials మార్చేసి ఆ we",10000000000000010,NULL,"I responded and said I am holding all the services and changed the website credentials. We"
+86,494.126212,494.440172,1,overlap,NULL,NULL,NULL,NULL
+87,494.473585,495.296329,1,speech,"on the website ఆ",0001,NULL,"on the website"
+88,495.296329,501.486356,2,speech,"హా next day next dayనో ఒక two days తరవాతో నాకు ఒక call వచ్చింది really prank calls ఉంటాయి గా అట్లే అనుకున్న",10011000000000000000,NULL,"The next day or two days later, I got a call. I thought they were really prank calls."
+89,501.486356,501.699633,1,speech,hmm,1,NULL,
+90,501.699633,513.909767,2,speech,"Call ఒచ్చి బాబు Vamshi ఆహ్ అన్నారు అవునండి మీ full name ఏంటి అంటే Vamshi Kumar ఇంటి పేరు ఏందీ అన్నారు phoneలో Kurapati Vamshi Kumar అండి ఎక్కడుంటావ్ sir ఎవరు sir నేను PS నుండి constable మాట్లాడుతున్నాను అండి",000000000000000000000000100000000,NULL,"Got a call, he asked, “Is this Vamshi?” I said yes. "What is your full name?" "Vamshi Kumar?”. He asked on the phone, “What is the surname?" “Kurapati Vamshi Kumar." "Where do you live?" "Who are you, sir?" "I am constable talking from PS.""
+91,513.909767,514.44296,1,speech,hmm,1,NULL,
+92,514.522939,518.539664,2,speech,"అర్త్ మీ మీద four twenty కేసు వచ్చింది అనంగానే నేను ఎవరో మనోడు మజాక్ చేస్తున్నాడు ఎమో అనుకున్న actualగ",1000000000000000,NULL,"He said there was a four twenty case on you, I thought that someone, my close ones, was playing a prank on me"
+93,518.539664,519.42573,1,speech,"ఇది నీకు తెలుసా",NULL,NULL,"Do you know this?"
+94,519.681587,520.32142,2,overlap,NULL,NULL,NULL,NULL
+95,520.961252,521.312271,1,overlap,NULL,NULL,NULL,NULL
+96,521.312271,521.867681,2,speech,"open చెయ్యలేదా",NULL,NULL,"Have you not opened it?"
+97,521.867681,522.534173,1,speech,"నాకే తెలీదు ఇది",NULL,NULL,"I don't know this"
+98,522.534173,522.885192,2,overlap,NULL,NULL,NULL,NULL
+99,522.911334,524.008326,2,speech,"interviews like ఇక్కడ చెప్పలేదు",NULL,NULL,"Interviews like this not mentioned here"
+100,524.008326,524.258166,1,speech,ok,NULL,NULL,okay
+101,524.258166,524.444783,1,overlap,NULL,NULL,NULL,NULL
+102,524.444783,524.849122,2,speech,"open అవుతున్న",NULL,NULL,"I’m opening"
+103,524.866895,525.5245,1,speech,okay,NULL,NULL,okay
+104,525.888849,527.341802,2,speech,"నేను నేను jokeగ తీసుకున్న first",10000,NULL,"I was taken as joke first"
+105,527.364018,527.74614,1,speech,hmm,1,NULL,
+106,527.74614,529.781163,2,speech,"then he was talking about ఆ college పేరు",NULL,NULL,"then he was talking about the name of that college"
+107,529.781163,530.394335,1,speech,hmm,1,NULL,
+108,530.412108,536.40165,2,speech,"మీరు website తిన్నారంట తీసేసుకున్నారు software తీస్కున్నారంటగా అన్నాడు వాడు software ఏంటి sir అంటే ఇక్కడ అట్లనే రాసి ఉంది FIR file అయింది అన్నారు వాడు",000001000000010000000,NULL,"He said that you had taken the website and the software. What is the software, sir? It is written here, he said, an FIR has been filed."
+109,536.508289,538.303374,1,speech,"software అంట తెలీదాళ్ళకి మళ్ళీ",0100,NULL,"Again they don’t know what is the software"
+110,538.33892,538.978752,2,overlap,NULL,NULL,NULL,NULL
+111,539.012346,542.599687,2,speech,"ఆయన అట్లా చెప్పకగానే నాకు ఇదేంటి FIR ఫ file see",000000100,NULL,"As soon as he said that to me, what is this? FIR file see"
+112,542.599687,543.590877,1,speech,"Liti case వేరు FIR వేరు",NULL,NULL,"Litigation case is different, FIR is different"
+113,543.718796,553.998673,2,speech,"నాకు అక్కడ తెలిసింది actualగ ఎల్ అక్కడికి వెళ్లిన తరవాత అక్కడికి వెళ్లిన తరవాత ఏమైంది ఆ treatment too bad ఉంటది sir ఇప్పుడు normalగ ఇప్పుడు ఇప్పుడు actually నేను చూస్తున్న ప్రకారం police వాళ్ళ దెగ్గర treatment బాగుంది బైట",00001111000010000000111000000000,NULL,"I got to know what actually happened after going there; their treatment will be too bad, sir. Now, normally, according to what I see, the treatment at the police station is good outside"
+114,554.157913,566.183764,2,speech,"stationకి వెళ్లిన తరవాత you are treated like a slave literal గా మీరు నమ్ముతారో నమ్మారో stationలో కూర్చున్న i explained everything to నాకు అప్పటికి constable పైన SI ఉంటాడు SI పైన CI ఉంటారు CI పైన ACPలు ఉంటారు ఎం తెల్వదు",NULL,NULL,"After going to the station, you are treated like a slave, literally you believe it or not, sat in the station, I explained everything,  by that time I don’t know anything like there was an SI above the constable, there was a CI above the SI, there were ACPs above the CI"
+115,566.216059,566.669273,1,speech,hmm,1,NULL,
+116,566.669273,567.309106,2,speech,"network ఉంది మాకు",NULL,NULL,"We have a network"
+117,567.309106,567.682341,0,noise,NULL,NULL,NULL,NULL
+118,567.682341,570.063939,2,speech,"తెలిసినవాళ్ళు ACP వాళ్ళు ఉన్నారు మా మా మా one of the",0000111000,NULL,"I have known there is ACP. One of the"
+119,570.072826,570.330536,0,noise,NULL,NULL,NULL,NULL
+120,570.348309,572.409991,2,speech,"best friend వాళ్ళ father he was he was a CI",0000111100,NULL,"best friend's father, he was a CI"
+121,572.409991,572.907639,1,speech,hmm,1,NULL,
+122,572.907639,574.748631,2,speech,"అంతా బానే ఉంది network కానీ ఎప్పుడు use చేసుకోలే నేను",NULL,NULL,"Everything is fine in network, but I didn’t use anytime"
+123,574.748631,575.182598,1,overlap,NULL,NULL,NULL,NULL
+124,575.182598,579.643651,2,speech,"~తో అక్కడికి వెళ్లిన తరవాత [COUGH] when I explained to SI గారు he was very much helpful",1000100000000000,NULL,"After going there, when I explained to SI, he was very much helpful"
+125,579.643651,580.016847,1,overlap,NULL,NULL,NULL,NULL
+126,580.016847,580.949975,2,speech,"tension పడకమ్మా చేసేద్దాం అన్నాడు",NULL,NULL,"He said don’t get tensed, we will do it"
+127,580.949975,581.616467,1,speech,okay,NULL,NULL,okay
+128,581.989703,584.780083,2,speech,"కొంది సేపటికి ఏమైంది he wanted me to sit Infront of CI's cabin",NULL,NULL,"What happened after a while is, he wanted me to sit in front of CI's cabin"
+129,585.011133,585.53544,1,speech,okay,NULL,NULL,okay
+130,585.53544,586.273025,2,speech,"SI గారు బైటికెళ్లారు",NULL,NULL,"SI went away"
+131,586.290798,586.788445,1,speech,okay,NULL,NULL,okay
+132,587.8104,602.948655,2,speech,"and లోపలికొచ్చారు CI నాకు అయన CI అని తెలీదు so he went in మన అయన cabin లోకి వెళ్ళేటప్పుడు ఎవరినో పిలిచారు అయన వచ్చి ఒక్కొక్కళ్ళ పేర్లు చెప్తున్నారు ఈయన ఇది అయన అది అని చెప్పి కూర్చొని అయన నా గురించి constable this ఫెల్ this guy is the the person involved in this",0000000000000000000000000000000000011100110000,NULL,"and came in the CI, I didn't know he was the CI, so he went in while he was going into the cabin he called someone, he came and told the names of each one. He sat saying he is this he is that. He sat and said about me to the constable “this guy is the person involved in this”"
+133,602.948655,603.250798,1,overlap,NULL,NULL,NULL,NULL
+134,603.250798,608.636004,2,speech,"college కాదు this thing అన్నప్పుడు literally పక్కన వాళ్ళ దెగ్గర rubber belts ఉంటాయి అనేమాట ఇంత లావు ఉంటది belt ఇట్లనే ఉంటది belt",NULL,NULL,"Not college, When they say this thing, literally they will have rubber belts next to them, the belt is so fat, the belt is like this"
+135,608.636004,609.084824,1,speech,ఆ,1,NULL,
+136,609.084824,612.809389,2,speech,"అది పట్టుకొని వచ్చి la literally నాక్ నాకు ఇది క కాళ్ళ ముందు",00010001000,NULL,"He held it and came, literally that was in front of my eyes"
+137,612.809389,613.008241,1,overlap,NULL,NULL,NULL,NULL
+138,613.008241,613.536991,1,speech,ఆహా,1,NULL,
+139,614.028815,616.038438,2,speech,"I can ఆ  I am just telling you openగ చెప్పు",00100000000,NULL,"I can, I am just telling you openly"
+140,616.038438,616.457108,1,overlap,NULL,NULL,NULL,NULL
+141,616.460669,617.331552,2,speech,లంజాకొడకా,NULL,NULL,"Son of a bitch."
+142,617.331552,617.740334,1,laugh,NULL,NULL,NULL,NULL
+143,617.766994,620.504054,2,speech,"ఎవనివి రా నువ్వు నీకెంత ధైర్యం ముంది రా అంనుకుంటు నా మీద కి వచ్చేసాడు bro",NULL,NULL,"Who are you? He is saying “how dare are you and coming on to me bro?”"
+144,620.628466,621.259412,1,speech,hmm,1,NULL,
+145,621.579328,625.800444,2,speech,"నాకు ఈ మాట అనంగానే అంటే they were not even ready to listen my version",NULL,NULL,"When this word was said to me meant they were not even ready to listen my version"
+146,626.138063,626.529142,1,speech,okay,01,NULL,okay
+147,626.529142,627.924332,2,speech,"FIR file అయింది అంటే వీడు తప్పు  ఒడే",NULL,NULL,"An FIR has been filed which means he is a wrong person"
+148,629.083654,630.705825,2,speech,"అంటారు కదా బైట న్యాయం అన్ని",NULL,NULL,"There is a saying outside justice all"
+149,630.705825,631.892577,1,overlap,NULL,NULL,NULL,NULL
+150,631.892577,632.616435,1,speech,"చెయ్యాలో కూడా తెలీదు మన",NULL,NULL,"We don't even know what to do"
+151,632.616435,632.945238,2,overlap,NULL,NULL,NULL,NULL
+152,632.945238,633.185175,1,speech,నాకు,NULL,NULL,"To me"
+153,633.32736,634.18047,2,speech,"అడిచి పోయింది bro",NULL,NULL,"Shivered bro"
+154,634.18047,634.598138,1,speech,ఆ,1,NULL,
+155,634.62458,635.015589,2,speech,కొడితే,NULL,NULL,"If he hit"
+156,635.274739,635.549,1,speech,speech,hmmL157,635985,636.521889,2,speech,"అదే కొట్టాడు okay",100,NULL,"He hit me okay"
+158,636.521889,636.819778,0,noise,NULL,NULL,NULL,NULL
+159,636.819778,640.789478,2,speech,"బైటికి పంపియ్యకపొతేయ్ FIR file అయింది అసలే నేను వాళ్ళ గడప లోపల ఉన్నా",NULL,NULL,"If they don’t send me out? The FIR was filed actually I was inside their gate"
+160,641.107814,641.588287,1,overlap,NULL,NULL,NULL,NULL
+161,641.588287,642.914723,2,speech,"ఇట్లా పరిస్థితి నేను ఎవ్వరికి చెప్పకుండా పోయిన అప్పుడు",NULL,NULL,"What is the situation? I didn't tell anyone and then went"
+162,643.34181,643.893306,0,noise,NULL,NULL,NULL,NULL
+163,643.893306,644.502727,2,speech,"ఎవడికి తెలీదు",NULL,NULL,"No one knows it"
+164,644.502727,646.37283,1,speech,[LAUGH]hmm,1,NULL,
+165,646.408377,649.332055,2,speech,"touch wood SI వచ్చిన తరవాత he did not he did not hit me",0000011100000,NULL,"Touch wood, after SI came he did not hit me"
+166,649.332055,649.618866,1,overlap,NULL,NULL,NULL,NULL
+167,649.618866,651.272847,2,speech,"ఆ at least ఆ చెయ్యి పట్టుకున్నాడు గట్టిగా",1001000,NULL,"At least he held the hand firmly"
+168,651.272847,651.595465,1,speech,hmm,1,NULL,
+169,651.595465,654.405023,2,speech,"పట్టుకొని లోపల ఎసిపడదెంగుతేయ్ బైటికి కూడా రావు నాకొడక అన్నాడు",NULL,NULL,"He said to me, "You won't come out if I hold on you and get you inside the jail""
+170,655.082614,655.435782,1,speech,okay,NULL,NULL,okay
+171,655.686286,656.647233,2,speech,"నేనేం మాట్లాడను",NULL,NULL,"I will not speak"
+172,656.716786,657.091596,1,speech,"ఆ గింత",NULL,NULL,"That screw"
+173,657.091596,667.470998,2,speech,"I'll wait I told ఆ ఆ ఈయన మాట్లాడుకుంటూ పక్కకి వెళ్ళిపోయాడు వస్తున్న bhai అని చెప్పి పక్కకి వెళ్ళిపోయాడు constable వచ్చారు sir మీకు దండం పెడతా తప్పు నాది కాదు నన్ను మాట్లాడానికి chance ఇవ్వండి SI గారు ఎక్కడికి వెళ్లారు ఉండే~",0000110000000000000000000000000001,NULL,"I'll wait I told, he went aside while talking he said “bhai I’m coming” and he went aside. Constable came, sir I will give hold my hands together, it is not my fault give me a chance to talk, where did SI sir go?"
+174,667.470998,667.993831,1,overlap,NULL,NULL,NULL,NULL
+175,668.011604,672.534863,2,speech,"SI గారు ఎక్కడికి ఎక్కడికి వెళ్లారు SI గారు అంటే వస్తారు ఒక one hourలో నువ్ పో గమ్మున బైటికి పోయి కూర్చోపో అన్నాడు",1110000000000000000,NULL,""Where did SI sir go?" He said “he will come in one hour, you go and sit outside quietly”"
+176,672.534863,673.174695,1,speech,hmm,1,NULL,
+177,673.174695,674.880915,2,speech,"వెళ్లి ఆయన placeలో కూర్చున్న ఆయన place ముందు కూర్చున్న",00100000,NULL,"I went and sat in front of his place"
+178,674.934234,675.348994,1,overlap,NULL,NULL,NULL,NULL
+179,675.348994,682.061255,2,speech,"దెగ్గర pla place ముంగడ అయన వచ్చిన తరవాత I explained him sir ఆ అయన వినలేదు సరే ఇంకొక్క సారి చెప్పండి అంటే అప్పుడు చెప్పిన తరవాత he left me out",11000000001000100000000000,NULL,"After he came at the place, I explained him, he didn't listen, he said, "Tell me one more time." After saying that, he left me out."
+180,682.25676,682.572233,1,speech,okay,NULL,NULL,okay
+181,682.572233,684.345101,2,speech,"sixకో six thirtyకో morning elevenకి వేల్లినోడిని",NULL,NULL,"I went at morning six or six thirty  or eleven"
+182,684.345101,684.602812,1,overlap,NULL,NULL,NULL,NULL
+183,684.602812,685.171551,1,speech,"వెళ్లేదెం లేదు",NULL,NULL,"There is no need to go"
+184,685.722518,689.108297,2,speech,"normal attire లో వెళ్ళిపోయినా అస్సలు నా దెగ్గర phone ఒక్కటే phone ఉంది charging లేదు",0000000100000,NULL,"I went in a normal attire, there is only one phone with me but no charging at all"
+185,689.143844,689.783676,1,speech,hmm,1,NULL,
+186,690.600699,697.138425,2,speech,"అస్సలు ఆ వింత situation అది నాకు literally bro one and half year because of covid నా దారిద్య్రానికి case అలాగే ఉండింది",01000000000000000000,NULL,"Actually it is a strange situation for me. Literally bro for one and half years because of COVID my case remained the same for my poverty"
+187,697.142532,697.399458,1,overlap,NULL,NULL,NULL,NULL
+188,697.399458,698.217739,2,speech,"హా I did not have a",100000,NULL,"I did not have a"
+189,698.217739,698.678405,1,overlap,NULL,NULL,NULL,NULL
+190,698.678405,699.514459,1,speech,"ఉండవ్ hmm",01,NULL,"There are no"
+191,699.721723,703.587377,2,speech,"you know నాకు ఒక clientది confirmation వచ్చింది I had to travel to the US",NULL,NULL,"You know I got confirmation from a client, I had to travel to the US"
+192,703.59339,703.915828,1,overlap,NULL,NULL,NULL,NULL
+193,703.915828,708.336327,2,speech,"passport లేదు అప్పటికి case వళ్ళ FIR వళ్ళ I could not ఆ what do you call register",0000000000100000,NULL,"There is no passport by that time, because of FIR of the case. I could not, what do you call, register"
+194,708.336327,709.070658,1,overlap,NULL,NULL,NULL,NULL
+195,709.140317,709.401542,2,speech,పాస్,NULL,NULL,Pass
+196,709.417195,709.97394,1,speech,passport,NULL,NULL,passport
+197,710.187218,712.000913,2,speech,"ఆ case ఉంటె verification అప్పుడు ఇబ్బంది అవుతాది అని చెప్పి",NULL,NULL,"If that case exists at the time of verification, he is saying that there will be trouble"
+198,712.000913,712.369342,1,overlap,NULL,NULL,NULL,NULL
+199,712.369342,715.83907,2,speech,"ఐతే ఆ client ని వదులుకున్నాను మ్మ్చ్ it is all because of that",000001000000,NULL,"However I gave up that client, it is all because of that"
+1,716.007915,719.082664,2,speech,"ఆ అంటే ఆ positionలో నేను కనక client కి support చెయ్యకుండా",1000000000,NULL,"Means if I would have not supported the client at that position"
+2,719.082664,719.544766,1,speech,hmm,1,NULL,
+3,719.553652,724.28313,2,speech,"ఆ three four months నేను support ఇవ్వకుండా అ stringentగ ఉండి వదిలి పడేసి ఉంటె ఈ పెంట ఉండేదే కాదు నాకు",000000010000000000,NULL,"If I had been strict and given no support during those three four months, I would not have had this situation."
+4,724.28313,724.981254,1,laugh,NULL,NULL,NULL,NULL
+5,725.030533,726.714244,2,speech,"దీని పైన నుంచి నేను ఒక లక్ష రూపాయలు ఖర్చుపెట్టుకున్నను",NULL,NULL,"Out of this, I have spent one lakh rupees"
+6,726.796199,728.218048,1,overlap,NULL,NULL,NULL,NULL
+7,729.868122,733.969506,2,speech,"నా personal experience పక్కకి పెడితే నాకు రెండు suggestions వచ్చాయి మా బాబాయ్ దెగ్గర నుంచి one of my clients దెగ్గర నుంచి",0000000000000000010,NULL,"Leaving aside my personal experience, I got two suggestions one from my uncle and one from one of my clients"
+8,733.969506,734.533483,0,noise,NULL,NULL,NULL,NULL
+9,734.56887,737.625408,2,speech,"మా బాబాయ్ అని అన్నాడు అనమాట నేను ఒక వేళా అయన chit fund business చేస్తారు",NULL,NULL,"My uncle said that if I would do chit fund business"
+10,737.625408,738.03678,1,overlap,NULL,NULL,NULL,NULL
+11,738.045627,744.791483,2,speech,"నేను ఒకవేళ నా న నా దెగ్గర డబ్బులు ఎగ్గొటిన వాళ్ళ దెగ్గర కోట్లాడి  డబ్బులు తెచ్చుకొని ఉంటె నా దెగ్గర ఇంకో కోటి రూపాయలు extra ఉండేటివి రా",00111000000000000000001,NULL,"If I had taken money from those who had withdrawn my money, I would have had another crore rupees extra."
+12,744.791483,745.377996,1,speech,hmm,1,NULL,
+13,745.377996,752.904912,2,speech,"మనశాంతి ఉండేది కాదు ఏ పెంటలు యేటివో ఎంత మంది నన్ను కొట్టేటోల్లో రేపు పొద్దున్న కొట్లాడి తెచ్చుకున్న డబ్బులు వాడిని బాధపెట్టిన నేను భాధపడ్డ అనే ఒక situation",NULL,NULL,"There was no peace of mind, no matter how many people beat me, there will be a fight tomorrow. It's a situation where I hurt him because of money."
+14,752.904912,753.430056,1,overlap,NULL,NULL,NULL,NULL
+15,753.430056,754.056066,1,speech,"~sfesh ఉండదు",10,NULL,No
+16,754.49958,756.832771,2,speech,"same thing ఇట్లే ఇదే ఇంకో versionలో మా client కూడా చెప్పాడు నాకు",NULL,NULL,"My client also told me the same thing in another version"
+17,756.832771,757.152688,1,speech,hmm,1,NULL,
+18,757.152688,766.135664,2,speech,"Accha okay so I tried to be in a go in a wrong way ఏమో వదిలేసివుంటే అయిపోయేదా లేకపోతే కూర్చొని settlementలో maybe కొన్ని సార్లు తగ్గితే తప్పు ఎం ఉంది అనే dialogues ఉన్నాయి కదా అట్ల",10000011100000000000000000000000,NULL,"Okay. So I tried to go in a wrong way, if something is left, will it be over or otherwise sitting in a settlement, maybe if it decreases a few times, there are dialogues that say, what is wrong in that"
+19,766.137718,766.626404,1,overlap,NULL,NULL,NULL,NULL
+20,766.626404,767.9282,2,speech,"ఉండింటే బాగుందేమో అని తరవాత అర్ధమైంది నాకు",NULL,NULL,"Later I realized that it would be better if I stayed"
+21,768.009434,768.982572,1,laugh,NULL,NULL,NULL,NULL
+22,768.982572,769.525672,1,overlap,NULL,NULL,NULL,NULL
+23,769.529779,770.696057,1,speech,"ఇక్కడ life లాంటి experience",NULL,NULL,"Life like experience here"
+24,770.696057,770.891309,0,noise,NULL,NULL,NULL,NULL
+25,770.891309,778.169402,2,speech,"though I learnt and though I wanted to be on a safer side ఏదో లోపల ఉంటది కదా ఒక వేరే different Vamsi వాడికైతే కోపం చాల ఉంది",0000000000000000100000000,NULL,"Though I learnt and though I wanted to be on a safer side, there is something inside  different Vamsi he has lot of anger"
+26,778.169402,778.892854,1,speech,ఇంకా,NULL,NULL,Still
+27,779.250129,780.26663,1,overlap,NULL,NULL,NULL,NULL
+28,780.515454,782.843733,2,speech,"thoughtలో అది ఉంది ఇంకా తెలీదు ఆ",000001,NULL,"It's in thought but still don't know"
+29,782.941485,783.776821,1,overlap,NULL,NULL,NULL,NULL
+30,783.776821,787.607084,1,speech,"see the karma హా karma has it's unique way of playing things out",0011000000000,NULL,"See the Karma has its unique way of playing things out"
+31,787.607084,787.820206,2,overlap,NULL,NULL,NULL,NULL
+32,787.820206,788.86882,2,speech,"I'm I'm not warning anyone",01000,NULL,"I'm not warning anyone"
+33,788.86882,789.544199,1,overlap,NULL,NULL,NULL,NULL
+34,789.544199,790.939389,2,speech,"it's my view అంతే",NULL,NULL,"It's my view. That’s it"
+35,791.027892,792.832226,1,speech,"hmm it's okayలే",100,NULL,"It’s okay"
+36,793.045623,793.80644,2,overlap,NULL,NULL,NULL,NULL
+37,793.80644,794.770732,1,speech,"will will get back our [LAUGH]",100001,NULL,"will get back our"
+38,794.770732,795.71733,2,overlap,NULL,NULL,NULL,NULL
+39,795.752716,796.42949,1,speech,ఈ,1,NULL,
+40,796.42949,803.794376,2,speech,"guys అ before you ask దయచేసి like I mean video నచ్చితే like చెయ్యండి మర్చిపోకండి ఎందుకంటే we need encouragement to do these",010000000000000000000,NULL,"Guys, before you ask, please like. I mean if you like the video then don’t forget to like it because we need encouragement to do these"
+41,803.794376,804.184737,1,overlap,NULL,NULL,NULL,NULL
+42,804.184737,811.105076,2,speech,"intellectual podcast this is not like మీరు love గురించి లేకపోతే[LAUGH] చెప్పట్లేదు we are just సే sharing real life experi~",0000000001000010001,NULL,"Intellectual podcast, this is not like you are not talking about love, we are just sharing real life"
+43,811.105076,811.411393,1,overlap,NULL,NULL,NULL,NULL
+44,811.411393,812.453751,1,speech,"it's just an introduction కదా",00001,NULL,"It's just an introduction"
+45,812.453751,817.219258,2,speech,"మీ futureలో  cinema గురించి మాట్లాడుతాం a business గురించి మాట్లాడుతాం ఆ different controversies గురించి మా~",000000101110011,NULL,"In your future, we will talk about cinema, business, different controversies"
+46,817.219258,818.052284,1,speech,"you can comment down",NULL,NULL,"You can comment down"
+47,818.052284,818.86096,2,speech,"Why should like comment",NULL,NULL,"Why should like comment"
+48,818.86096,819.669637,1,overlap,NULL,NULL,NULL,NULL
+49,819.758503,825.721385,2,speech,"మన సుబ్స్ fashionలో subscribers అందరు కూడా make sure do subscribe the Vamsi Kurapati fashion channel sorry [LAUGH]",01000000000000001,NULL,"All our fashion subscribers also make sure to subscribe the Vamshi Kurapati fashion channel sorry"
+50,825.721385,826.614464,1,overlap,NULL,NULL,NULL,NULL
+51,826.614464,829.684791,2,speech,"[LAUGH] Fashion వచ్చేస్తుంది YouTube channel Okay",100000,NULL,"Fashion YouTube channel is coming. Okay"
+52,829.684791,830.767575,1,speech,"yeah thank you",NULL,NULL,"yes, thank you"
+53,830.784001,831.488762,2,speech,"last question",NULL,NULL,"last question"
+54,832.500565,833.257188,1,overlap,NULL,NULL,NULL,NULL
+55,833.257188,835.13701,1,speech,"నేను last మిమ్మల్ని అడగనా మీరు అడగండి",NULL,NULL,"Should I ask you last, you ask"
+56,835.13701,835.923156,2,speech,"లేద్ నిన్నే అడుగుతా ఎప్పుడు",NULL,NULL,"No I will only ask every time"
+57,835.923156,836.678513,1,speech,"okay okay",10,NULL,Okay
+58,836.856245,837.970572,2,overlap,NULL,NULL,NULL,NULL
+59,837.970572,838.701549,2,speech,"holdలో ఉన్నారు",NULL,NULL,"are on hold"
+60,838.701549,844.614211,1,speech,"హా ఇది actually ఆ మీ teamతో మాట్లాడిన తర్వాత మీ close friends తో మాట్లాడిన తర్వాత నాకు వచ్చిన question అనమాట",100100000000000000,NULL,"This is actually a question that came to me after talking with your team and after talking with your close friends"
+61,844.800829,845.245157,2,overlap,NULL,NULL,NULL,NULL
+62,845.245157,853.909553,1,speech,"before talking to you before starting this ఈరోజు తెలుసుకున్న వ విషయమే ఇది one of your friend who is a Tollywood actor he is a hero కొంచం famousఉ",000000000100000000000000000,NULL,"before talking to you, before starting this the thing, I learnt today that one of your friend who is a Tollywood actor, he is a hero somewhat famous"
+63,853.909553,854.43386,2,speech,hmm,1,NULL,
+64,854.43386,859.676931,1,speech,"అయన నీకు call చేసి తిట్టారంట recentగ దేని గురించి అస్సలు ఏమైంది ఆయనకి ఎం అవసరం వచ్చింది తిట్టడానికి",NULL,NULL,"He called you and scolded you recently, for what and why did he need to scold you"
+65,859.676931,861.472016,2,speech,"It was a funny",NULL,NULL,"It was a funny"
+66,861.472016,863.444832,1,overlap,NULL,NULL,NULL,NULL
+67,863.444832,867.141641,2,speech,"అంటే fun not like seriousగ తిట్టారంటే ఏదో చేసేసా అని కాదు గాని",NULL,NULL,"It means that fun, not like seriously, doesn't mean that I have done something"
+68,867.141641,867.834793,1,overlap,NULL,NULL,NULL,NULL
+69,867.834793,870.109752,2,speech,"Good concernతో పెట్ట, why did you do like this?",NULL,NULL,"I have put with good concern, why did you do like this?"
+70,870.109752,872.100342,1,overlap,NULL,NULL,NULL,NULL
+71,872.100342,880.826944,2,speech,"నేను చెప్పాలంటే ఇది మన fashion was లో కూడా share చేసుకోలేదు so ఆ I have a mediocre skin not like you know మంచి brightగ spotless skin",0000010000010000000110000,NULL,"I have to say this is not even shared in our fashion, so I have a mediocre skin not like  good bright spotless skin"
+72,880.826944,882.373205,1,overlap,NULL,NULL,NULL,NULL
+73,882.373205,894.965461,2,speech,"It It come from the genes ఆ pimples అవి మా fatherకి ఎక్కువగా ఉండేవి teenageలో so right now I'm having those pimples carried, so దానికోసం a person should get better whenever he get a chance, okay?",10000010000000000000000000000000000,NULL,"It comes from the genes, pimples were more common in my father in teenage so right now I’m having those pimples carried, so for that a person should get better whenever he gets a chance, okay?"
+74,894.965461,895.267604,1,speech,hmm,1,NULL,
+75,895.267604,897.898025,2,speech,"and if a person knows that there is a scope for",NULL,NULL,"and if a person knows that there is a scope for"
+76,898.09353,899.293215,1,overlap,NULL,NULL,NULL,NULL
+77,899.302102,900.475128,2,speech,"He must take that chance",NULL,NULL,"He must take that chance"
+78,900.475128,900.732838,1,speech,correct,NULL,NULL,correct
+79,900.741725,901.550402,2,speech,"అదైతే  నేను నమ్ముతా",NULL,NULL,"I believe so"
+80,901.550402,902.136915,1,speech,"I agree too",NULL,NULL,"I agree too"
+81,902.136915,922.833713,2,speech,"అంటే ఎప్పుడు కూడా ఒకే దెగ్గర stableగ stagnentగ ఉండాలి అని నేను నమ్మను growth ఉండాలి better అవ్వాలి అది skin అవ్వనివ్వండి body అవ్వనివ్వండి డబ్బులివ్వనివ్వండి business అవ్వనివ్వండి ఏదైనా సరే so i took my chances ఆ so i went to a so and so skin facility అని మాట అక్కడ doctor dermatologist he suggested me to take a carbon peel అ laser treatment",000000000000000000010010000000100000000000000000000000100,NULL,"That is, I don't believe that it should always be stable and stagnant growth. You should have better be it skin, body, money, business, anything. So I took my chances, so I went to a so and so skin facility. A doctor who is dermatologist suggested me to take a carbon peel laser treatment"
+1,923.091423,923.971192,1,overlap,NULL,NULL,NULL,NULL
+2,923.971192,933.399833,2,speech,"treatment తీసుకున్న తరవాత it didn't went well okay so it shown some side effects you can have the picture here ఇక్కడ picture వేస్తా మీకోసం",NULL,NULL,"After taking the treatment, it didn't go well, okay? So it has shown some side effects. You can have the picture here."
+3,933.399833,935.539581,1,speech,"Okay మధ్యలో ఒక one week మీరు అసలు ఎవర్నీ  కలవలే",NULL,NULL,"Okay, for one week in between you didn’t meet anyone"
+4,935.539581,936.323511,1,overlap,NULL,NULL,NULL,NULL
+5,936.323511,944.572072,2,speech,"I went into a depression ఆ డబుల్ నేను expect చెయ్యాలా it would happen to me అని చెప్పి ఎందుకంటే better అవ్వాలి అనుకున్న వాళ్ళకి ఎందుకు ఇలా ఎన్ ఎందుకు ఇలా",000101100000000110000000111,NULL,"I went into depression, I didn’t expect it would happen to me because I thought I should get better. Why is this?"
+6,944.572072,945.325596,1,overlap,NULL,NULL,NULL,NULL
+7,945.734378,958.068923,2,speech,"and people giving me stares and all మ్మ్చ్ I didn't like it [LAUGH] so depressionలోకి వెళ్ళా but ఒక as a being being a fashion influencer it  has some weight on you okay",000000010000100000000000000000000,NULL,"and people giving me stares and all I didn't like it so I went into depression but as a being, being a fashion influencer it has some weight on you okay"
+8,958.068923,958.468819,1,overlap,NULL,NULL,NULL,NULL
+9,958.468819,968.723909,2,speech,"fashion influencer అయ్యి ఉండి people would accept me like this ఎందుకంటే అప్పటికి i don't know makeup అనే option కూడా నేను consider చెయ్యాలే and being pretty honest కావాలంటే అప్పుడప్పుడు touchup చేస్తూ ఉంటా",NULL,NULL,"Being a fashion influencer, people would accept me like this because by then I don't know makeup, I didn’t also consider the option and being pretty honest, if I want I would do touch up occasionally."
+10,968.723909,969.194896,1,overlap,NULL,NULL,NULL,NULL
+11,969.194896,973.025004,2,speech,"I am recovering recovering right now and చాల తగ్గయి ఇప్పుడు ఇందాక photo చూసారు కాబట్టి",00010000000000,NULL,"I am recovering right now and it has decreased a lot since you saw the photo"
+12,973.025004,973.887,1,speech,అవును,NULL,NULL,Yes
+13,973.949206,976.757359,2,speech,"Okay so he called me ఆలా నేను ఒక",NULL,NULL,"Okay so he called me. So I am a"
+14,976.757359,977.850406,1,overlap,NULL,NULL,NULL,NULL
+15,977.850406,979.675817,1,speech,"[LAUGH] friends ఎ కదా yeah",10101,NULL,"Friends know"
+16,979.728897,1004.646762,2,speech,"he called me call చేసిన తరవాత good concern తో ఆ ఒక reel పెట్టా instagramలో దాని చూసి తేడా  గమనించాడు actor కదా తెలుస్తది తను ముందు నన్ను చూసాడు real lifeలో ఏంటి ఎందుకు ఇలా చేసావ్ నువ్వు అస్సల  why why are you looking for temporary solutions ఎందుకు shortcuts నేను చెప్పా ఇలాగ I want to get better అందుకే ఇలా అనిపించింది bro I didn't know this would happen అని చెప్పి అన్న అనమాట ఎందుకయ్యా ఇలా చేస్తారు చదువుకున్నోళ్ళు educated అయి అయిఉండి ఎందుకు ఇలా చేస్తా",00000000010000000000000000000000000100000000000000000010100000000000000010000,NULL,"After he called me, he put a reel with good concern and noticed the difference on Instagram. Did the actor know that he saw me before? Why did you do this in real life? Why are you looking for temporary solutions? Why are you looking for shortcuts? It felt like, I didn't know this would happen, why do educated people do like this?"
+17,1004.646762,1005.791371,1,overlap,NULL,NULL,NULL,NULL
+18,1005.791371,1012.232507,2,speech,"ఇలా ఏదో sign చెయ్యమంటారు sign చేసి ఉంటావ్ చేసావ్ కదా హ చేసేసా bro sign చేస్తేయ్ ఎం చెయ్యలేం వాళ్ళు concern తీసుకుంటారు",0000000000010000000,NULL,"They ask you to sign something like this, have you signed? Yes, signed it. If you sign, we can’t do anything. They will take concern."
+19,1012.232507,1012.488264,1,overlap,NULL,NULL,NULL,NULL
+20,1012.488264,1013.372935,2,speech,"Before getting ఇలా",NULL,NULL,"Before getting like this"
+21,1013.381782,1017.226753,1,overlap,NULL,NULL,NULL,NULL
+22,1018.097636,1025.153565,2,speech,"ఆ అన్నాడు అనమాట next time ఇలాగ చెయ్యొద్దు so so and so వాడు అది try చెయ్ you know get get a concealer",100000010000000111000,NULL,"He said next time don't do it like this, so and so he said try it, get a concealer"
+23,1025.153565,1026.045181,1,overlap,NULL,NULL,NULL,NULL
+24,1026.045181,1027.129569,0,noise,NULL,NULL,NULL,NULL
+25,1027.129569,1029.507979,2,speech,"because of his suggestion I considered it now",NULL,NULL,"Because of his suggestion I considered it now"
+26,1029.516866,1030.56548,1,overlap,NULL,NULL,NULL,NULL
+27,1030.59214,1032.2717,2,speech,"considered no getting into makeup",NULL,NULL,"Considered not getting into makeup"
+28,1032.2717,1033.320314,1,overlap,NULL,NULL,NULL,NULL
+29,1033.320314,1036.144367,2,speech,"concealer makeup అంటే not using one or two products just one",NULL,NULL,"Concealer makeup means not using one or two products, just one"
+30,1036.144367,1036.510589,1,overlap,NULL,NULL,NULL,NULL
+31,1036.510589,1039.416494,2,speech,"concealer అప్పుడప్పుడు touch చేస్తా వీడియో ముందుకి వెళ్తా confidentగ మాట్లాడతా",NULL,NULL,"Touches the concealer occasionally, goes in front of the video and speaks confidently"
+32,1039.416494,1040.500654,1,speech,"Tamil వదిలేసి వెనక్కి ఉండకుండా",NULL,NULL,"Without leaving Tamil behind"
+33,1040.500654,1040.673882,2,overlap,NULL,NULL,NULL,NULL
+34,1040.673882,1049.307235,2,speech,"ఆ it's like see when you are using a filter when you are using a makeup or something it's just makes you more confident",10010000000000000000000,NULL,"It's like, when you are using a filter, when you are using a makeup or something, it just makes you more confident"
+35,1049.307235,1049.645552,1,overlap,NULL,NULL,NULL,NULL
+36,1049.645552,1060.180878,2,speech,"It's not like you are insecure so you are covering all your spots and all insecure గా నుండి confident గ ఉండడానికి ఇప్పుడు జనాలు for స for suppose girlsనే తీసుకుందాం కొంతమంది traditionalsలో confident ఉంటారు కొంతమంది western wearలో confident",0000000000000000000000011100000000001,NULL,"It's not like you are insecure, so you are covering all your spots and all from being insecure to being confident. Now people, suppose some girls are confident in traditional, some are in western wear."
+37,1060.180878,1060.539847,1,overlap,NULL,NULL,NULL,NULL
+38,1060.539847,1065.018673,2,speech,"but the thing is they are confident in that they are comfortable in that that's what we need to",NULL,NULL,"But the thing is, they are confident in that. They are comfortable in that. That's what we need to"
+39,1065.356363,1067.444704,1,overlap,NULL,NULL,NULL,NULL
+40,1067.569116,1087.048456,2,speech,"so that's what and I am really sure ఆ in in coming twenty twenty three people would not you know అస్సలు పోల్చరు నన్ను ఆలా తయారవుతా అన్నమాట that's what I can do because bettering I'm I might face some failures but I won't at all ignore the lesson I will take the lesson and I will do some research from next time",0000000011000000001100000000000001000000000000000000000000100,NULL,"So that's what, and I am really sure that in coming 2023, people will not. That's what I can do because, bettering I might face some failures, but I won't ignore the lesson at all. I will take the lesson, and I will do some research next time."
+41,1087.048456,1088.470305,1,overlap,NULL,NULL,NULL,NULL
+42,1088.496965,1090.372029,2,speech,"So research చేసి I will take forward any",NULL,NULL,"So research is done and I will take forward any"
+43,1090.372029,1090.985122,1,overlap,NULL,NULL,NULL,NULL
+44,1090.993969,1091.569005,1,speech,"lack of research",NULL,NULL,"lack of research"
+45,1091.569005,1092.453676,1,overlap,NULL,NULL,NULL,NULL
+46,1092.453676,1098.556551,2,speech,"Look at the stake right now అప్పుడు నాకు తెలీదు effect అయితే video ఆపాల్సి వస్తుంది అని కానీ literally seven days ఆపేసా but people don't know what happened to me",NULL,NULL,"Look at the stake right now then I don't know the effect but the video will have to be stopped but literally seven days I stopped but people don't know what happened to me"
+47,1098.556551,1099.649598,1,speech,"Yeah yeah I understand",0100,NULL,"Yes I understand"
+48,1099.649598,1101.035901,2,speech,"So yeah it's a bit",01000,NULL,"So it's a bit"
+49,1101.035901,1101.844578,1,overlap,NULL,NULL,NULL,NULL
+50,1101.844578,1103.273202,1,speech,"lack of research అంటే తెలీకుండా",NULL,NULL,"Lack of research, means without knowing"
+51,1103.273202,1103.968466,2,overlap,NULL,NULL,NULL,NULL
+52,1104.012899,1109.922461,2,speech,"research చెయ్యలేదు ఆ డబ్బులు ఉన్నాయి చేతిలోని వెళ్లిపోదాం చేద్దాం అని చెప్పి just it costed me around six thousand ఎంతో",001000000000000000,NULL,"I didn't do research, I have money in my hand, I said let's go, just it costed me around six thousand, that's a lot"
+53,1109.922461,1110.726555,1,speech,"Oh ok",10,NULL,Okay
+54,1110.843774,1111.087059,0,noise,NULL,NULL,NULL,NULL
+55,1111.087059,1112.828366,1,speech,"~లే వెళ్దాం try చేద్దాం అని అనుకున్న",100000,NULL,"I thought let's go and try"
+56,1112.828366,1114.304482,1,speech,"normalగ అంతే ఉంటది బైట ఏదో ఏ",000001,NULL,"Normally, there is something outside."
+57,1114.304482,1114.880086,1,overlap,NULL,NULL,NULL,NULL
+58,1114.897779,1121.306145,2,speech,"research చెయ్యలేదు ఎప్పుడు doctor suggest చేసిన వెంటనే అయన రేపు చేద్దాం అన్నాడు నేను ఆహ్ రోజు ఆ రోజు చేసేద్దాం అని చెప్పి నేను convince చేశా doctor ని",000000000000110000000000,NULL,"I didn't do research. When the doctor suggested it, he said let's do it tomorrow. I said let's do it that day and I convinced the doctor."
+59,1121.306145,1122.292553,1,overlap,NULL,NULL,NULL,NULL
+60,1122.292553,1125.83829,2,speech,"ఒకరోజు నేను కొంచం time తీసుకొని న skin తగ్గట్టుగా పన చేస్తదో లేదో  తెలుసు",NULL,NULL,"One day I will take some time and see if it will work accordingly on my skin or not."
+61,1125.86495,1126.291505,1,overlap,NULL,NULL,NULL,NULL
+62,1126.291505,1126.940224,1,speech,ఉంటె,NULL,NULL,Know
+63,1126.940224,1127.833323,2,speech,"better అయ్యి ఉండేదేమో",NULL,NULL,"It could have been better"
+64,1127.833323,1128.548253,0,noise,NULL,NULL,NULL,NULL
+65,1128.548253,1130.521507,1,speech,"actually ఆహ్ treatmentకి వెళ్లేముందు మనం కలిసాం అనుకుంట ఆ రోజు",NULL,NULL,"Actually, I think we met that day before going to that treatment"
+66,1130.521507,1132.174407,1,overlap,NULL,NULL,NULL,NULL
+67,1132.174407,1133.58737,2,speech,"like పే face కొంచం చూసుకొని",01000,NULL,"Like some see the face"
+68,1133.58737,1134.520459,1,overlap,NULL,NULL,NULL,NULL
+69,1134.556006,1135.089199,1,speech,"sits okay",NULL,NULL,"Sits okay"
+70,1135.089199,1139.941261,2,speech,"constructiveగ తీసుకున్న నేను you know people are noticing so why not to you know why not give it a try అని చెప్పి",0000000000011111000000,NULL,"I took it constructively and said you know people are noticing so why not give it a try"
+71,1139.941261,1140.447795,1,overlap,NULL,NULL,NULL,NULL
+72,1140.447795,1142.52725,2,speech,"ప్రతి ఒక్కరికి ఏదో ఒక issue ఉంటాది bro ఇప్పుడు నేను కూడా ఒక",00000010000,NULL,"Everyone has some issue, now I have one too"
+73,1142.52725,1143.700276,1,overlap,NULL,NULL,NULL,NULL
+74,1143.700276,1144.97217,2,speech,"covid timeలో నేను videos start చేసినప్పుడు",NULL,NULL,"When I started videos in COVID time"
+75,1144.97217,1145.286228,1,overlap,NULL,NULL,NULL,NULL
+76,1145.286228,1145.81703,2,speech,"Very fat",NULL,NULL,"Very fat"
+77,1145.88637,1146.385334,1,speech,hmm,1,NULL,
+78,1146.455109,1147.130488,2,speech,"Literally I was",NULL,NULL,"Literally I was"
+79,1147.237127,1148.712296,1,speech,"I know this story [LAUGH]",00001,NULL,"I know this story"
+80,1148.712296,1150.176247,1,overlap,NULL,NULL,NULL,NULL
+81,1150.176247,1150.998991,2,speech,"ఆ మీరు చూడాల్సిం",100,NULL,"You must see"
+82,1150.998991,1151.394881,1,overlap,NULL,NULL,NULL,NULL
+83,1151.394881,1152.487759,2,speech,"~నాయ్ ఇక్కడ [LAUGH]",101,NULL,Here
+84,1152.577949,1155.012867,1,overlap,NULL,NULL,NULL,NULL
+85,1155.012867,1156.230325,2,speech,"I was like ఆ నా పొట్ట ఉండేది",0001000,NULL,"I was like, my stomach was"
+86,1156.230325,1156.486163,1,overlap,NULL,NULL,NULL,NULL
+87,1156.486163,1157.864038,2,speech,"~తది కనపడుతుంది అని భయం",1000,NULL,"Fear of being seen"
+88,1157.864038,1158.220915,1,overlap,NULL,NULL,NULL,NULL
+89,1158.220915,1158.887407,2,speech,"ఒక్కటే T-shirt వేసుకొని",NULL,NULL,"Wearing only one T-shirt"
+90,1158.887407,1159.44726,1,overlap,NULL,NULL,NULL,NULL
+91,1159.571672,1164.48594,2,speech,"ఎందుకు వేరే వేరే తీసుకుంటే నేను ఎట్లుంటానో తెలీదు but once I understood acha transformation is needed",010000000001000,NULL,"I don't know how I would look like if I take something else, but once I understood transformation is needed"
+92,1164.48594,1165.019133,1,overlap,NULL,NULL,NULL,NULL
+93,1165.019133,1166.058861,2,speech,"Dressing people in person",NULL,NULL,"Dressing people in person"
+94,1166.058861,1166.538735,1,speech,hmm,1,NULL,
+95,1166.544872,1169.862309,2,speech,"Workshops conduct చేస్తున్న collegesకి వెళ్తున్న then I understood transformation is needed",NULL,NULL,"went to colleges, conducting workshops, then I understood that transformation was needed."
+96,1169.862309,1170.599893,1,overlap,NULL,NULL,NULL,NULL
+97,1170.599893,1175.506589,2,speech,"కనపడడానికి different ఉండాలి అప్పుడు when i ఆ took this challenge three months లో నేను  rice grain ముట్టలే",000000100000000000,NULL,"It should be different to look at. Then when I took this challenge I did not touch rice grain in three months,"
+98,1175.878151,1177.541332,0,noise,NULL,NULL,NULL,NULL
+99,1177.584729,1180.401769,1,speech,"South Indiansఉ rice నుంచి దూరంగా ఉండడం చాల పెద్ద విషయం",NULL,NULL,"Staying away from rice is a big deal for South Indians"
+100,1180.401769,1181.565908,2,speech,"too much కష్టం",NULL,NULL,"Too much difficulty"
+101,1181.681593,1182.460103,0,noise,NULL,NULL,NULL,NULL
+102,1182.460103,1183.440972,1,overlap,NULL,NULL,NULL,NULL
+103,1183.440972,1185.26451,2,speech,"నాకు ఎప్పుడు ఒక question ఉండేది rice లేకుండా బ్రతక గలుగుతారా మనుషులు అని",NULL,NULL,"I always had a question that, can humans survive without rice?"
+104,1185.26451,1186.98671,1,overlap,NULL,NULL,NULL,NULL
+105,1187.182214,1187.795387,1,speech,hmm,1,NULL,
+106,1187.804273,1197.997158,2,speech,"but transformation అయినా తరవాత నాకు వచ్చిన confidence next level bro's like ఆ I understand that అంటే ఎవరో కొ  comment చేసారు అంటే basically [COUGH] పక్కనోళ్ళ  గురించి మనం ఎం చెయ్యట్లేదు మన confidence కోసం దాంట్లో తప్పు అయిథెయ్ లేదు",0000000001110001010000010000000000000,NULL,"But the confidence that came to me after the transformation was next level. I understand that someone has commented that, basically, we have not done anything about the neighbours for our confidence, there was no mistake in that."
+107,1197.997158,1198.530351,1,speech,"లేదు అస్సల",NULL,NULL,"Not at all"
+108,1198.530351,1199.116864,1,overlap,NULL,NULL,NULL,NULL
+109,1199.143524,1200.467621,1,speech,"No pain no gain అన్నారు",NULL,NULL,"Said, "No pain no gain""
+110,1200.467621,1208.796759,2,speech,"ఇప్పుడు దాని అర్ధం నేను భయపడ్డట్టు కాదు transformation అవ్వడానికి నేను భయ అంటే ఎందుకు భయపడి చేసుకున్నావ్ అంటే I i need that confidence and i understood వా what gives me that confidence",00000000000000001000000100000,NULL,"Now it doesn't mean that I am afraid, Why am I afraid of transformation? I need that confidence and I understood what gives me that confidence."
+111,1208.876379,1209.610656,0,noise,NULL,NULL,NULL,NULL
+112,1209.620778,1214.837189,1,speech,"so whatever gives you confidence do that don't let anybody say otherwise",NULL,NULL,"So whatever gives you confidence, do that. Don't let anybody say otherwise."
+113,1215.148697,1217.501921,0,noise,NULL,NULL,NULL,NULL
+114,1217.501921,1220.604566,1,overlap,NULL,NULL,NULL,NULL
+115,1220.604566,1222.115281,2,speech,"ఇచ్చామా లేదా అని [BREATH] చూస్తున్నారో లేదో",000100,NULL,"Whether given or not, seen or not"
+116,1222.115281,1223.421606,1,overlap,NULL,NULL,NULL,NULL
+117,1223.421606,1224.639065,1,speech,"thanks for being ఆ",0001,NULL,"thanks for being"
+118,1224.639065,1227.580516,2,overlap,NULL,NULL,NULL,NULL
+119,1227.651608,1236.582601,2,speech,"before getting me as a client before you know getting into business he is my own friend and ఎలా meet అయ్యాం అంటే దానికి తగ్గట్టు ఇంకో separate podcast",000000011000000000000000000,NULL,"before getting me as a client, before getting into business, he is my own friend and how we met is another separate podcast"
+120,1236.635921,1238.570557,1,overlap,NULL,NULL,NULL,NULL
+121,1238.570557,1244.305022,2,speech,"Ohh that's what we are friends అనమాట and love to do these kind of content with you more often",1000001000000000000,NULL,"That's what we are friends and love to do these kind of content with you more often"
+122,1244.305022,1246.571095,1,overlap,NULL,NULL,NULL,NULL
+123,1246.651074,1258.843434,1,speech,"so ఇందాక చెప్పినట్టు you can comment down మీకేమన్న suggestions ఉంటె nothing is planned yet నా నుంచి ఎమన్నా తెలుసుకోవాలి అన్నా తన నుంచి ఎమన్నా తెలుసుకోవాలి అన్నా The mainly fashion verge followers ఎవరన్నా if you have some suggestion from your side I am definitely up for it",00000000000000000000000010000000000000000000,NULL,"so you can comment down if you have any suggestions. Nothing is planned yet if you want to know anything about me, know from him. Mainly fashion verge followers, anyone. If you have some suggestions from your side, I am definitely up for it."
+124,1259.072612,1259.585721,0,noise,NULL,NULL,NULL,NULL
+125,1259.585721,1260.001516,1,overlap,NULL,NULL,NULL,NULL
+126,1260.28632,1261.074789,2,speech,"waiting for it",NULL,NULL,"waiting for it"
+127,1261.354039,1262.011097,1,speech,"Bye bye",10,NULL,Bye
+128,1262.011097,1262.599684,2,speech,"Bye bye",10,NULL,Bye
